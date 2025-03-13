@@ -6,7 +6,7 @@ website:
   # favicon: logo.png
   open-graph: true
   twitter-card: true
-  site-url: https://maehr.github.io/dhbern.github.io/projects/
+  site-url: https://dhbern.github.io/
   repo-url: https://github.com/DHBern/dhbern.github.io/
   issue-url: https://github.com/DHBern/dhbern.github.io/issues/new/choose
   repo-actions: [edit, issue]
