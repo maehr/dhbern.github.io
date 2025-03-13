@@ -2,61 +2,66 @@ project:
   type: website
 
 website:
-  title: REPO_NAME
-  favicon: android-chrome-512x512.png
+  title: dhbern.github.io
+  # favicon: logo.png
   open-graph: true
   twitter-card: true
-  site-url: https://USERNAME.github.io/REPO_NAME/
-  repo-url: https://github.com/USERNAME/REPO_NAME/
-  issue-url: https://github.com/USERNAME/REPO_NAME/issues/new/choose
+  site-url: https://maehr.github.io/dhbern.github.io/projects/
+  repo-url: https://github.com/DHBern/dhbern.github.io/
+  issue-url: https://github.com/DHBern/dhbern.github.io/issues/new/choose
   repo-actions: [edit, issue]
   page-navigation: true
-  bread-crumbs: true
+  bread-crumbs: false
   back-to-top-navigation: true
   search:
     show-item-context: true
     type: overlay
   navbar:
-    logo: android-chrome-512x512.png
-    logo-alt: ''
-    title: REPO_NAME
+    title: Digital Humanities
     tools:
       - icon: github
-        url: https://github.com/USERNAME/REPO_NAME/
+        url: https://github.com/DHBern/dhbern.github.io/
     left:
-      - text: Readme
-        href: index.qmd
-      - text: Report
-        href: report.md
+      - text: Studies
+        href: https://www.dh.unibe.ch/studium/index_ger.html
+      - text: Research
+        href: content/projects/index.qmd
+      - text: Services
+        href: https://www.dh.unibe.ch/dienstleistungen/index_ger.html
+      - text: About us
+        href: https://www.dh.unibe.ch/about_us/team/index_eng.html
 
   sidebar:
+    style: 'docked'
+    collapse-level: 2
     contents:
-      - section: REPO_NAME
-        href: index.qmd
-        contents:
-          - text: Changelog
-            href: CHANGELOG.md
-          - text: Code of Conduct
-            href: CODE_OF_CONDUCT.md
-          - text: Contributing
-            href: CONTRIBUTING.md
-          - text: License (Data)
-            href: LICENSE-CCBY.md
-          - text: License (Code)
-            href: LICENSE-AGPL.md
-          - text: Security
-            href: SECURITY.md
-      - href: report.md
-        contents: project-management/*
+      - text: Blog
+        href: /
+      - text: Events
+        href: /#events
+      - text: Projects
+        href: content/projects/index.qmd
+        contents: content/projects/*/index.qmd
 
 format:
   html:
     toc: true
-    theme: cosmo
+    toc-location: right
+    theme:
+      - brand
+      - custom.scss
     code-copy: true
     code-overflow: wrap
+    citations-hover: true
+    crossrefs-hover: true
     css: styles.css
+    link-external-icon: true
+    link-external-newwindow: true
+    include-in-header:
+      - custom-header.html
+    page-layout: full
+    license: CC BY-SA 4.0
 
-freeze: true
+freeze: auto
 
 editor: visual

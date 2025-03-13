@@ -1,0 +1,7 @@
+---
+title: "Projects"
+listing:
+  type: grid
+  contents: "./*/index.qmd"
+# categories: true
+---

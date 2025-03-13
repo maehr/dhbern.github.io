@@ -1,23 +1,23 @@
 {
-	"name": "REPO_NAME",
-	"description": "SHORT_DESCRIPTION",
-	"author": "FULLNAME <[INSERT CONTACT METHOD]>",
-	"url": "https://github.com/USERNAME/REPO_NAME/issues",
+	"name": "dhbern.github.io",
+	"description": "Digital Humanities at the University of Bern.",
+	"author": "Digital Humanities UniBern <digitalhumanities@unibe.ch>",
+	"url": "https://github.com/DHBern/dhbern.github.io/issues",
 	"license": "AGPL-3.0",
 	"scripts": {
-		"check": "prettier --ignore-path .gitignore  --check . '!{CODE_OF_CONDUCT.md,LICENSE-AGPL.md,LICENSE-CCBY.md,_layouts/default.html,package-lock.json,pnpm-lock.yaml,yarn.lock}'",
+		"check": "prettier --ignore-path .gitignore  --check . '!{CODE_OF_CONDUCT.md,LICENSE-AGPL.md,LICENSE-CCBY.md,_layouts/default.html,package-lock.json,pnpm-lock.yaml,yarn.lock,.venv}'",
 		"commit": "cz",
-		"format": "prettier --ignore-path .gitignore --write . '!{CODE_OF_CONDUCT.md,LICENSE-AGPL.md,LICENSE-CCBY.md,_layouts/default.html,package-lock.json,pnpm-lock.yaml,yarn.lock}'",
+		"format": "prettier --ignore-path .gitignore --write . '!{CODE_OF_CONDUCT.md,LICENSE-AGPL.md,LICENSE-CCBY.md,_layouts/default.html,package-lock.json,pnpm-lock.yaml,yarn.lock,.venv}'",
 		"prepare": "husky",
 		"changelog": "npm exec git-cliff -- --config cliff.toml"
 	},
 	"devDependencies": {
-		"commitizen": "^4.3.0",
+		"commitizen": "^4.3.1",
 		"cz": "^1.8.2",
 		"cz-conventional-changelog": "^3.3.0",
-		"git-cliff": "^2.2.1",
-		"husky": "^9.0.11",
-		"prettier": "^3.2.5"
+		"git-cliff": "^2.8.0",
+		"husky": "^9.1.7",
+		"prettier": "^3.5.3"
 	},
 	"type": "module",
 	"config": {
