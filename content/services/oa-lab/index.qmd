@@ -1,0 +1,19 @@
+---
+title: "Open Access Publication Advice in the OA Lab"
+author: "Katharina Böhmer"
+categories: [services]
+---
+
+The *Open Access Lab (OA Lab)* supports researchers in publishing scientific work in open access (Diamond OA). Our goal is to promote innovative, publisher-independent publication formats that integrate both text and multimedia elements.
+
+## Our services include
+
+-   Consulting on the establishment and further development of academic OA journals
+-   Support in the development of innovative publication formats (e.g. linking text, images, audio and video files)
+-   Support in submitting OA journals to metrics-based indices (DOAJ, SCOPUS, Web of Science)
+-   Image management and legal advice on image rights
+
+## Contact
+
+Katharina Böhmer, M.A.\
+[katharina.boehmer\@unibe.ch](mailto:katharina.boehmer@unibe.ch)
