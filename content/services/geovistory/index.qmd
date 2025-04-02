@@ -1,6 +1,10 @@
 ---
 title: "Geovistory: Linking and analysing research data"
-author: Stephen Hart
+author:
+  - name: Stephen Hart
+    email: stephen.hart@unibe.ch
+    orcid: 0009-0003-6556-5512
+    affiliation: University of Bern
 categories: [services]
 ---
 

@@ -1,6 +1,10 @@
 ---
 title: "Open Access Publication Advice in the OA Lab"
-author: "Katharina Böhmer"
+author: 
+  - name: Katharina Böhmer
+    email: katharina.boehmer@unibe.ch
+    orcid: 0009-0003-7269-6780
+    affiliation: University of Bern
 categories: [services]
 ---
 

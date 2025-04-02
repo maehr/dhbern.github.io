@@ -1,6 +1,10 @@
 ---
 title: "nodegoat Go: data management and network analysis"
-author: "Sebastian Borkowski"
+author: 
+  - name: Sebastian Borkowski
+    email: sebastian.borkowski@unibe.ch
+    orcid: 0000-0002-8324-1939
+    affiliation: University of Bern
 categories: [services]
 ---
 
