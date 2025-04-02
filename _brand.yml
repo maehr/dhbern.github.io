@@ -29,6 +29,6 @@ color:
   light: '#f5f5f5' # Light background sections
   dark: '#404041' # Dark text for contrast
 typography: # https://posit-dev.github.io/brand-yml/brand/typography.html
-  base: FrutigerNeue
-  headings: FrutigerNeue
-  monospace: FrutigerNeue
+  base: Switzer-Variable
+  headings: Switzer-Variable
+  monospace: Switzer-Variable
