@@ -2,11 +2,7 @@
 
 This repository contains the website of the Digital Humanities at the University of Bern. The data in this repository is openly available to everyone and is intended to support reproducible research.
 
-[![GitHub issues](https://img.shields.io/github/issues/DHBern/dhbern.github.io.svg)](https://github.com/DHBern/dhbern.github.io/issues)
-[![GitHub forks](https://img.shields.io/github/forks/DHBern/dhbern.github.io.svg)](https://github.com/DHBern/dhbern.github.io/network)
-[![GitHub stars](https://img.shields.io/github/stars/DHBern/dhbern.github.io.svg)](https://github.com/DHBern/dhbern.github.io/stargazers)
-[![Code license](https://img.shields.io/github/license/DHBern/dhbern.github.io.svg)](https://github.com/DHBern/dhbern.github.io/blob/main/LICENSE-AGPL.md)
-[![Data license](https://img.shields.io/github/license/DHBern/dhbern.github.io.svg)](https://github.com/DHBern/dhbern.github.io/blob/main/LICENSE-CCBY.md)
+[![GitHub issues](https://img.shields.io/github/issues/DHBern/dhbern.github.io.svg)](https://github.com/DHBern/dhbern.github.io/issues) [![GitHub forks](https://img.shields.io/github/forks/DHBern/dhbern.github.io.svg)](https://github.com/DHBern/dhbern.github.io/network) [![GitHub stars](https://img.shields.io/github/stars/DHBern/dhbern.github.io.svg)](https://github.com/DHBern/dhbern.github.io/stargazers) [![Code license](https://img.shields.io/github/license/DHBern/dhbern.github.io.svg)](https://github.com/DHBern/dhbern.github.io/blob/main/LICENSE-AGPL.md) [![Data license](https://img.shields.io/github/license/DHBern/dhbern.github.io.svg)](https://github.com/DHBern/dhbern.github.io/blob/main/LICENSE-CCBY.md)
 
 <!-- [![DOI](https://zenodo.org/badge/ZENODO_RECORD.svg)](https://zenodo.org/badge/latestdoi/ZENODO_RECORD) -->
 
@@ -23,11 +19,76 @@ The structure of this repository follows the [Advanced Structure for Data Analys
 
 ## Installation
 
-Install [Node.js](https://nodejs.org/en/download/package-manager) and [Quarto](https://quarto.org/docs/get-started/). Run the following commands in the root directory of the repository:
+Follow these instructions to set up your environment:
+
+### Prerequisites
+
+Make sure you have the following software installed:
+
+- **Node.js**: [Installation Guide](https://nodejs.org/en/download/)
+- **R**: [CRAN Installation Guide](https://cran.r-project.org/)
+- **uv**: [Installation Guide](https://github.com/astral-sh/uv#installation)
+- **Quarto**: [Installation Guide](https://quarto.org/docs/get-started/)
+
+Note: uv will automatically install and manage a Python version if one isn't available.
+
+### Setup the project
+
+Clone the repository and navigate to its root directory, then:
+
+#### Linux and macOS
+
+1.  Install Node.js dependencies:
 
 ```bash
 npm install
 ```
+
+2.  Setup Python environment with uv:
+
+```bash
+uv install
+```
+
+3.  Setup R environment with renv:
+
+```bash
+Rscript -e 'install.packages("renv"); renv::restore()'
+```
+
+4.  Check installation by previewing the documentation:
+
+```bash
+uv run quarto preview
+```
+
+#### Windows
+
+1.  Install Node.js dependencies:
+
+```powershell
+npm install
+```
+
+2.  Setup Python environment with uv:
+
+```powershell
+uv install
+```
+
+3.  Setup R environment with renv:
+
+```powershell
+Rscript -e "install.packages('renv'); renv::restore()"
+```
+
+4.  Check installation by previewing the documentation:
+
+```powershell
+uv run quarto preview
+```
+
+Now, your environment should be fully configured and ready to use.
 
 ## Use
 
@@ -58,12 +119,12 @@ npm run changelog
 Preview the documentation.
 
 ```bash
-quarto preview
+uv run quarto preview
 ```
 
 ## Support
 
-This project is maintained by [@DHBern](https://github.com/DHBern). Please understand that we can't provide individual support via email. We also believe that help is much more valuable when it's shared publicly, so more people can benefit from it.
+This project is maintained by [\@DHBern](https://github.com/DHBern). Please understand that we can't provide individual support via email. We also believe that help is much more valuable when it's shared publicly, so more people can benefit from it.
 
 | Type                                   | Platforms                                                                    |
 | -------------------------------------- | ---------------------------------------------------------------------------- |
