@@ -1,0 +1,33 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/content/projects/benasch/250313_news_related_to_benasch.html",
+      "/content/posts/250313_news_not_related_to_a_projetct.html",
+      "/content/events/250430_open_access_event_not_related_to_a_project.html"
+    ]
+  },
+  {
+    "listing": "/content/projects/index.html",
+    "items": [
+      "/content/projects/benasch/index.html",
+      "/content/projects/bullinger-digital/index.html",
+      "/content/projects/aufbereitung-bundesratsprotokolle/index.html",
+      "/content/projects/metadata-handbook/index.html",
+      "/content/projects/interactivity/index.html",
+      "/content/projects/advanced-layout/index.html"
+    ]
+  },
+  {
+    "listing": "/content/services/index.html",
+    "items": [
+      "/content/services/nodegoat-go/index.html",
+      "/content/services/research-support/index.html",
+      "/content/services/oa-lab/index.html",
+      "/content/services/transkribus/index.html",
+      "/content/services/geovistory/index.html",
+      "/content/services/iiif/index.html",
+      "/content/services/training/index.html"
+    ]
+  }
+]
