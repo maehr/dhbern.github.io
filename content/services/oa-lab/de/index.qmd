@@ -9,6 +9,7 @@ author:
   - name: Alessandra Fedrigo
     email: alessandrafedrigo@unibe.ch
     affiliation: Universität Bern
+categories: [Dienstleistungen]
 other-links:
     - text: "English version"
       icon: globe
@@ -19,61 +20,59 @@ other-links:
 
 Wir bieten Beratung und Unterstützung für Wissenschaftler:innen, die unabhängig von kommerziellen Verlagen im Open Access (OA) publizieren möchten:
 
-<div class="btn-group d-flex justify-content-center" role="group" aria-label="Navigation für Zielgruppen">
-  <a href="#herausgeberinnen" class="btn btn-outline-primary">Für Herausgeber:innen</a>
-  <a href="#redaktorinnen" class="btn btn-outline-primary">Für Redaktor:innen</a>
-  <a href="#autorinnen" class="btn btn-outline-primary">Für Autor:innen</a>
-</div>
+::: {.btn-group .d-flex .justify-content-center role="group" aria-label="Navigation für Zielgruppen"}
+<a href="#herausgeberinnen" class="btn btn-outline-primary">Für Herausgeber:innen</a> <a href="#redaktorinnen" class="btn btn-outline-primary">Für Redaktor:innen</a> <a href="#autorinnen" class="btn btn-outline-primary">Für Autor:innen</a>
+:::
 
 ## Herausgeber:innen
 
 Gemeinsam mit Ihnen entwickeln wir:
 
-- neue OA-Journals
-- innovative Features für Ihre OA-Zeitschrift
-- Strategien zur Weiterentwicklung von bestehenden OA-Zeitschriften
+-   neue OA-Journals
+-   innovative Features für Ihre OA-Zeitschrift
+-   Strategien zur Weiterentwicklung von bestehenden OA-Zeitschriften
 
 Wir unterstützen Sie bei der:
 
-- Wahl von Formaten (HTML, PDF, XML), Veröffentlichungsplattformen (z. B. OJS), Hosting-Lösungen und Software
-- Transformation von bestehenden Print- oder Online-Journals zu OA/DOA (Flipping)
-- Aufnahme Ihrer OA-Zeitschrift in relevante Datenbanken und metrikbasierte Indizes (z. B. DOAJ)
-- Entscheidung für geeignete OA-Lizenzen (Creative Commons)
+-   Wahl von Formaten (HTML, PDF, XML), Veröffentlichungsplattformen (z. B. OJS), Hosting-Lösungen und Software
+-   Transformation von bestehenden Print- oder Online-Journals zu OA/DOA (Flipping)
+-   Aufnahme Ihrer OA-Zeitschrift in relevante Datenbanken und metrikbasierte Indizes (z. B. DOAJ)
+-   Entscheidung für geeignete OA-Lizenzen (Creative Commons)
 
 ## Redaktor:innen
 
 Wir teilen unsere Expertise zu folgenden Themen:
 
-- Konzipierung des OA-Zeitschriftenworkflows
-- Redaktionsprozess: Richtlinien für Peer-Review, Lektorat, Stylesheet
-- Produktionsprozess: Formatierung, Satz, Fahnenkorrektur, Publikation
-- Best Practices: Workflow in OJS, Bildmanagement (Bildrechte und Bildbearbeitung)
-- Kommunikation mit Autor:innen und Editorial Board, Zeitmanagement
-- Plagiatsprüfung: Software und Umgang mit Plagiaten
-- Marketingstrategien (Social Media)
+-   Konzipierung des OA-Zeitschriftenworkflows
+-   Redaktionsprozess: Richtlinien für Peer-Review, Lektorat, Stylesheet
+-   Produktionsprozess: Formatierung, Satz, Fahnenkorrektur, Publikation
+-   Best Practices: Workflow in OJS, Bildmanagement (Bildrechte und Bildbearbeitung)
+-   Kommunikation mit Autor:innen und Editorial Board, Zeitmanagement
+-   Plagiatsprüfung: Software und Umgang mit Plagiaten
+-   Marketingstrategien (Social Media)
 
 Wir bieten:
 
-- regelmässige Beratung und Schulungen für Redaktionsteams von OA-Journals
-- Hilfe bei der Optimierung von redaktionellen Workflows
+-   regelmässige Beratung und Schulungen für Redaktionsteams von OA-Journals
+-   Hilfe bei der Optimierung von redaktionellen Workflows
 
 ## Autor:innen
 
 Wir beraten Sie zu den Themen:
 
-- Bildmanagement (Bildrechte und Bildbearbeitung)
-- Kommunikation mit Museen, Bibliotheken, Archiven etc.
-- Kommunikation mit OA-Zeitschriften-Redaktionen
-- rechtliche Fragen (Urheberrecht)
+-   Bildmanagement (Bildrechte und Bildbearbeitung)
+-   Kommunikation mit Museen, Bibliotheken, Archiven etc.
+-   Kommunikation mit OA-Zeitschriften-Redaktionen
+-   rechtliche Fragen (Urheberrecht)
 
 Wir geben Tipps zur:
 
-- innovativen Aufbereitung von Bildmaterial
-- Einbettung von multimedialen Features in Texte (Video, Audio etc.)
+-   innovativen Aufbereitung von Bildmaterial
+-   Einbettung von multimedialen Features in Texte (Video, Audio etc.)
 
 ## Wer wir sind
 
-Das OA Lab ist eine Dienstleistung der Digital Humanities an der Universität Bern.  
+Das OA Lab ist eine Dienstleistung der Digital Humanities an der Universität Bern.\
 Katharina Böhmer (Leitung) und Alessandra Fedrigo (Mitarbeit) haben als Redaktorinnen die erfolgreiche kunsthistorische OA-Zeitschrift *21: Inquiries into Art, History, and the Visual* (Diamond OA) mit aufgebaut und sind Expertinnen im Bereich des OA-Publizierens von Fachzeitschriften. Ihre fundierte redaktionelle Expertise und ihre praktische Erfahrung geben sie gerne an Interessierte weiter.
 
 Wir freuen uns auf Ihre Kontaktaufnahme!
