@@ -47,7 +47,7 @@ npm install
 2.  Setup Python environment with uv:
 
 ```bash
-uv install
+uv sync
 ```
 
 3.  Setup R environment with renv:
