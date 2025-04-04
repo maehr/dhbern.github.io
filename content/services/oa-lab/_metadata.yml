@@ -1,5 +1,5 @@
-format: 
-  html: 
+format:
+  html:
     sidebar: false
     link-external-icon: false
     page-layout: full
