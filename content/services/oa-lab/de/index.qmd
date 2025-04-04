@@ -1,5 +1,5 @@
 ---
-title: "OA Lab"
+title: "Open Access Lab"
 lang: de
 author: 
   - name: Katharina Böhmer
@@ -21,10 +21,10 @@ other-links:
 Wir bieten Beratung und Unterstützung für Wissenschaftler:innen, die unabhängig von kommerziellen Verlagen im Open Access (OA) publizieren möchten:
 
 ::: {.btn-group .d-flex .justify-content-center role="group" aria-label="Navigation für Zielgruppen"}
-<a href="#herausgeberinnen" class="btn btn-outline-primary">Für Herausgeber:innen</a> <a href="#redaktorinnen" class="btn btn-outline-primary">Für Redaktor:innen</a> <a href="#autorinnen" class="btn btn-outline-primary">Für Autor:innen</a>
+<a href="#für-herausgeberinnen" class="btn btn-outline-primary">Für Herausgeber:innen</a> <a href="#für-redaktorinnen" class="btn btn-outline-primary">Für Redaktor:innen</a> <a href="#für-autorinnen" class="btn btn-outline-primary">Für Autor:innen</a>
 :::
 
-## Herausgeber:innen
+## Für Herausgeber:innen
 
 Gemeinsam mit Ihnen entwickeln wir:
 
@@ -39,7 +39,7 @@ Wir unterstützen Sie bei der:
 -   Aufnahme Ihrer OA-Zeitschrift in relevante Datenbanken und metrikbasierte Indizes (z. B. DOAJ)
 -   Entscheidung für geeignete OA-Lizenzen (Creative Commons)
 
-## Redaktor:innen
+## Für Redaktor:innen
 
 Wir teilen unsere Expertise zu folgenden Themen:
 
@@ -56,7 +56,7 @@ Wir bieten:
 -   regelmässige Beratung und Schulungen für Redaktionsteams von OA-Journals
 -   Hilfe bei der Optimierung von redaktionellen Workflows
 
-## Autor:innen
+## Für Autor:innen
 
 Wir beraten Sie zu den Themen:
 
@@ -78,6 +78,6 @@ Katharina Böhmer (Leitung) und Alessandra Fedrigo (Mitarbeit) haben als Redakto
 Wir freuen uns auf Ihre Kontaktaufnahme!
 
 **Kontakt:**\
-Katharina Böhmer\
-Alessandra Fedrigo\
+[Katharina Böhmer](https://www.dh.unibe.ch/ueber_uns/personen/ma_boehmer_katharina/index_ger.html)\
+[Alessandra Fedrigo](https://www.dh.unibe.ch/ueber_uns/personen/fedrigo_alessandra/index_ger.html)\
 [oa-lab.dh\@unibe.ch](mailto:oa-lab.dh@unibe.ch)

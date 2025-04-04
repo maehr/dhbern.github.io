@@ -1,5 +1,5 @@
 ---
-title: "OA Lab"
+title: "Open Access Lab"
 author: 
   - name: Katharina Böhmer
     email: katharina.boehmer@unibe.ch
@@ -20,10 +20,10 @@ other-links:
 We provide advice and support for researchers who wish to publish in Open Access (OA), independently of commercial publishers: as editorial board members, editorial teams, or authors.
 
 ::: {.btn-group .d-flex .justify-content-center role="group" aria-label="Role navigation"}
-<a href="#editorial-board-members" class="btn btn-outline-primary">For Editorial Board Members</a> <a href="#editorial-teams" class="btn btn-outline-primary">For Editorial Teams</a> <a href="#authors" class="btn btn-outline-primary">For Authors</a>
+<a href="#for-editorial-board-members" class="btn btn-outline-primary">For Editorial Board Members</a> <a href="#for-editorial-teams" class="btn btn-outline-primary">For Editorial Teams</a> <a href="#for-authors" class="btn btn-outline-primary">For Authors</a>
 :::
 
-## Editorial Board Members
+## For Editorial Board Members
 
 Together with you we design:
 
@@ -38,7 +38,7 @@ We support you in:
 -   including your OA journal in relevant databases and metric-based indices (e.g., DOAJ)
 -   deciding on suitable OA licenses (Creative Commons)
 
-## Editorial Teams
+## For Editorial Teams
 
 We share our expertise on the following topics:
 
@@ -55,7 +55,7 @@ We offer:
 -   regular consultation and training for editorial teams of OA journals
 -   assistance in optimizing editorial workflows
 
-## Authors
+## For Authors
 
 We advise you on:
 
@@ -77,6 +77,6 @@ Katharina Böhmer (director) and Alessandra Fedrigo (collaborator) played a key 
 We look forward to hearing from you!
 
 **Contact:**\
-Katharina Böhmer\
-Alessandra Fedrigo\
+[Katharina Böhmer](https://www.dh.unibe.ch/about_us/people/ma_boehmer_katharina/index_eng.html)\
+[Alessandra Fedrigo](https://www.dh.unibe.ch/about_us/people/fedrigo_alessandra/index_eng.html)\
 [oa-lab.dh\@unibe.ch](mailto:oa-lab.dh@unibe.ch)
