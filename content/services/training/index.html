@@ -175,12 +175,6 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../content/projects/metadata-handbook/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Metadata Handbook</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="../../../content/projects/interactivity/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Observable JS</span></a>
   </div>
@@ -223,7 +217,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../../content/services/oa-lab/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">OA Lab</span></a>
+ <span class="menu-text">Open Access Lab</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -409,7 +403,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/maehr\.github\.io\/dhbern\.github\.io");
+      var filterRegex = new RegExp("https:\/\/maehr\.github\.io\/dhbern\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

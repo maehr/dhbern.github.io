@@ -147,73 +147,73 @@
   {
     "objectID": "content/services/oa-lab/index.html",
     "href": "content/services/oa-lab/index.html",
-    "title": "OA Lab",
+    "title": "Open Access Lab",
     "section": "",
     "text": "We provide advice and support for researchers who wish to publish in Open Access (OA), independently of commercial publishers: as editorial board members, editorial teams, or authors.\n\nFor Editorial Board Members For Editorial Teams For Authors",
     "crumbs": [
       "Studies",
       "Services",
-      "OA Lab"
+      "Open Access Lab"
     ]
   },
   {
     "objectID": "content/services/oa-lab/index.html#welcome-to-the-oa-lab",
     "href": "content/services/oa-lab/index.html#welcome-to-the-oa-lab",
-    "title": "OA Lab",
+    "title": "Open Access Lab",
     "section": "",
     "text": "We provide advice and support for researchers who wish to publish in Open Access (OA), independently of commercial publishers: as editorial board members, editorial teams, or authors.\n\nFor Editorial Board Members For Editorial Teams For Authors",
     "crumbs": [
       "Studies",
       "Services",
-      "OA Lab"
+      "Open Access Lab"
     ]
   },
   {
-    "objectID": "content/services/oa-lab/index.html#editorial-board-members",
-    "href": "content/services/oa-lab/index.html#editorial-board-members",
-    "title": "OA Lab",
-    "section": "Editorial Board Members",
-    "text": "Editorial Board Members\nTogether with you we design:\n\nnew OA journals\ninnovative features for your OA journal\nstrategies for the further development of existing OA journals\n\nWe support you in:\n\ndeciding on formats (HTML, PDF, XML), publishing platforms (e.g., OJS), hosting solutions, and software\ntransforming existing print or online journals to OA/DOA (Flipping)\nincluding your OA journal in relevant databases and metric-based indices (e.g., DOAJ)\ndeciding on suitable OA licenses (Creative Commons)",
+    "objectID": "content/services/oa-lab/index.html#for-editorial-board-members",
+    "href": "content/services/oa-lab/index.html#for-editorial-board-members",
+    "title": "Open Access Lab",
+    "section": "For Editorial Board Members",
+    "text": "For Editorial Board Members\nTogether with you we design:\n\nnew OA journals\ninnovative features for your OA journal\nstrategies for the further development of existing OA journals\n\nWe support you in:\n\ndeciding on formats (HTML, PDF, XML), publishing platforms (e.g., OJS), hosting solutions, and software\ntransforming existing print or online journals to OA/DOA (Flipping)\nincluding your OA journal in relevant databases and metric-based indices (e.g., DOAJ)\ndeciding on suitable OA licenses (Creative Commons)",
     "crumbs": [
       "Studies",
       "Services",
-      "OA Lab"
+      "Open Access Lab"
     ]
   },
   {
-    "objectID": "content/services/oa-lab/index.html#editorial-teams",
-    "href": "content/services/oa-lab/index.html#editorial-teams",
-    "title": "OA Lab",
-    "section": "Editorial Teams",
-    "text": "Editorial Teams\nWe share our expertise on the following topics:\n\ndesigning OA-journal workflows\neditorial process: guidelines for peer review, proofreading, stylesheet…\nproduction process: formatting, typesetting, proofreading, publication…\nbest practices: workflow in OJS, image management (image rights and image editing)\ncommunication with authors and editorial board, time management…\nplagiarism check: software and handling of plagiarism\nmarketing strategies (Social Media)\n\nWe offer:\n\nregular consultation and training for editorial teams of OA journals\nassistance in optimizing editorial workflows",
+    "objectID": "content/services/oa-lab/index.html#for-editorial-teams",
+    "href": "content/services/oa-lab/index.html#for-editorial-teams",
+    "title": "Open Access Lab",
+    "section": "For Editorial Teams",
+    "text": "For Editorial Teams\nWe share our expertise on the following topics:\n\ndesigning OA-journal workflows\neditorial process: guidelines for peer review, proofreading, stylesheet…\nproduction process: formatting, typesetting, proofreading, publication…\nbest practices: workflow in OJS, image management (image rights and image editing)\ncommunication with authors and editorial board, time management…\nplagiarism check: software and handling of plagiarism\nmarketing strategies (Social Media)\n\nWe offer:\n\nregular consultation and training for editorial teams of OA journals\nassistance in optimizing editorial workflows",
     "crumbs": [
       "Studies",
       "Services",
-      "OA Lab"
+      "Open Access Lab"
     ]
   },
   {
-    "objectID": "content/services/oa-lab/index.html#authors",
-    "href": "content/services/oa-lab/index.html#authors",
-    "title": "OA Lab",
-    "section": "Authors",
-    "text": "Authors\nWe advise you on:\n\nimage management (image rights and image editing)\ncommunication with museums, libraries, archives, etc.\ncommunication with editorial teams of OA journals\nlegal questions (copyright)\n\nWe offer tips on:\n\ninnovative presentation of image material\nembedding multimedia features into texts (video, audio, etc.)",
+    "objectID": "content/services/oa-lab/index.html#for-authors",
+    "href": "content/services/oa-lab/index.html#for-authors",
+    "title": "Open Access Lab",
+    "section": "For Authors",
+    "text": "For Authors\nWe advise you on:\n\nimage management (image rights and image editing)\ncommunication with museums, libraries, archives, etc.\ncommunication with editorial teams of OA journals\nlegal questions (copyright)\n\nWe offer tips on:\n\ninnovative presentation of image material\nembedding multimedia features into texts (video, audio, etc.)",
     "crumbs": [
       "Studies",
       "Services",
-      "OA Lab"
+      "Open Access Lab"
     ]
   },
   {
     "objectID": "content/services/oa-lab/index.html#about-us",
     "href": "content/services/oa-lab/index.html#about-us",
-    "title": "OA Lab",
+    "title": "Open Access Lab",
     "section": "About Us",
     "text": "About Us\nThe OA Lab is a service of Digital Humanities at the University of Bern.\nKatharina Böhmer (director) and Alessandra Fedrigo (collaborator) played a key role in establishing the successful art history OA journal 21: Inquiries into Art, History, and the Visual (Diamond OA) as editors and are experts in the field of OA publishing for journals. They are happy to share their in-depth editorial expertise and practical experience with everyone interested.\nWe look forward to hearing from you!\nContact:\nKatharina Böhmer\nAlessandra Fedrigo\noa-lab.dh@unibe.ch",
     "crumbs": [
       "Studies",
       "Services",
-      "OA Lab"
+      "Open Access Lab"
     ]
   },
   {
@@ -424,51 +424,18 @@
     "href": "content/projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "BeNASch: Praktische Einblicke und Diskussion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBullinger digital\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKooperationsprojekt Aufbereitung der Schweizerischen Bundesratsprotokolle\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetadata Handbook\n\n\n\n\n\n\nLevyn Bürki, Moritz Mähr, Noëlle Schnegg\n\n\n\n\n\n\n\n\n\n\n\n\nObservable JS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPositioning Content in the Margin\n\n\nThis post demonstrates a few of the capabilities for positioning content in the margin of the page. You can read more about the complete capabilities in the Article Layout…\n\n\n\nCharles Teague\n\n\nFeb 17, 2022\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to topReuseCC BY-SA 4.0",
+    "text": "BeNASch: Praktische Einblicke und Diskussion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBullinger digital\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKooperationsprojekt Aufbereitung der Schweizerischen Bundesratsprotokolle\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nObservable JS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPositioning Content in the Margin\n\n\nThis post demonstrates a few of the capabilities for positioning content in the margin of the page. You can read more about the complete capabilities in the Article Layout…\n\n\n\nCharles Teague\n\n\nFeb 17, 2022\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to topReuseCC BY-SA 4.0",
     "crumbs": [
       "Studies",
       "Projects"
     ]
   },
   {
-    "objectID": "content/projects/aufbereitung-bundesratsprotokolle/index.html",
-    "href": "content/projects/aufbereitung-bundesratsprotokolle/index.html",
-    "title": "Kooperationsprojekt Aufbereitung der Schweizerischen Bundesratsprotokolle",
+    "objectID": "content/posts/250313_news_not_related_to_a_projetct.html",
+    "href": "content/posts/250313_news_not_related_to_a_projetct.html",
+    "title": "Not Project related news",
     "section": "",
-    "text": "Kooperationsprojekt Aufbereitung der Schweizerischen Bundesratsprotokolle\nZiel des Projekts ist die Aufbereitung der handschriftlichen Bundesratsprotokolle (1848-1903) um einen niederschwelligen Zugriff mittels eigener Suchoberfläche zu schaffen. Die automatische Erkennung und Aufbereitung von handschriftlichem Material ist seit wenigen Jahren mit guter Qualität möglich.\nDie handschriftlich verfassten Bundesratsprotokolle der Jahre 1848 bis 1903 liegen zwar als Digitalisate vor (siehe: www.amtsdruckschriften.bar.admin.ch), sie sind jedoch nur schwer über handschriftliche Register und Sitzungsnummern suchbar. Im Rahmen des Projekts werden 150’000 Seiten der Bundesratsprotokolle segmentiert (p2pala und citlab advanced layout analysis) und mittels Texterkennung (Pylaia) aufbereitet. Der gesamte Prozess läuft in Transkribus und wird in eine Such- und Blätteroberfläche eingespiesen.\nDer Zugang zu den erkannten Dokumenten ist über das Bundesarchiv möglich: www.chgov.bar.admin.ch/search.\nDas Projekt befindet sich im Abschluss, siehe dazu die Medienmitteilung des Bundesarchivs vom 3.2.2022.\nDas Projekt ist eine Kooperation des Schweizerischen Bundesarchivs und der Digital Humanities. Die Texterkennung erfolgt im Rahmen der Mitgliedschaft in der READ Kooperative.\nDavid Schoch, B. A.\n\n\n\n\n\n\n Back to topReuseCC BY-SA 4.0",
-    "crumbs": [
-      "Studies",
-      "Projects",
-      "Kooperationsprojekt Aufbereitung der Schweizerischen Bundesratsprotokolle"
-    ]
-  },
-  {
-    "objectID": "CHANGELOG.html",
-    "href": "CHANGELOG.html",
-    "title": "Changelog",
-    "section": "",
-    "text": "All notable changes to this project will be documented in this file.\nThe format is based on Keep a Changelog, and this project adheres to Semantic Versioning.\n\n\n\n\n\nDocs for Zenodo added\nFixed various typos and replaced favicon\n\n\n\n\n\nInitial version\n\n\n\n\n\n\n\n\n…\n\n\n\n\n\n\n\n\n…"
-  },
-  {
-    "objectID": "CHANGELOG.html#unreleased",
-    "href": "CHANGELOG.html#unreleased",
-    "title": "Changelog",
-    "section": "",
-    "text": "Docs for Zenodo added\nFixed various typos and replaced favicon\n\n\n\n\n\nInitial version"
-  },
-  {
-    "objectID": "CHANGELOG.html#section",
-    "href": "CHANGELOG.html#section",
-    "title": "Changelog",
-    "section": "",
-    "text": "…"
-  },
-  {
-    "objectID": "CHANGELOG.html#section-1",
-    "href": "CHANGELOG.html#section-1",
-    "title": "Changelog",
-    "section": "",
-    "text": "…"
+    "text": "Not Project related news\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n\n\n\n\n Back to topReuseCC BY-SA 4.0"
   },
   {
     "objectID": "CODE_OF_CONDUCT.html",
@@ -527,82 +494,43 @@
     "text": "This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
   },
   {
-    "objectID": "content/posts/250313_news_not_related_to_a_projetct.html",
-    "href": "content/posts/250313_news_not_related_to_a_projetct.html",
-    "title": "Not Project related news",
+    "objectID": "CHANGELOG.html",
+    "href": "CHANGELOG.html",
+    "title": "Changelog",
     "section": "",
-    "text": "Not Project related news\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n\n\n\n\n Back to topReuseCC BY-SA 4.0"
+    "text": "All notable changes to this project will be documented in this file.\nThe format is based on Keep a Changelog, and this project adheres to Semantic Versioning.\n\n\n\n\n\nDocs for Zenodo added\nFixed various typos and replaced favicon\n\n\n\n\n\nInitial version\n\n\n\n\n\n\n\n\n…\n\n\n\n\n\n\n\n\n…"
   },
   {
-    "objectID": "content/projects/metadata-handbook/index.html",
-    "href": "content/projects/metadata-handbook/index.html",
-    "title": "Metadata Handbook",
+    "objectID": "CHANGELOG.html#unreleased",
+    "href": "CHANGELOG.html#unreleased",
+    "title": "Changelog",
     "section": "",
-    "text": "Diskriminierungsfreie Metadaten (Version 2) is an interdisciplinary research initiative examining how metadata practices in digital archives and datasets can inadvertently reproduce discrimination. At its core, the project interrogates the notion that metadata – the descriptive information about historical sources, artifacts, or research data – is a neutral technical layer. Instead, it recognizes that metadata schemas and vocabularies often embed the values and biases of their creators and institutional contexts. Classification systems and descriptive standards come with normative assumptions that may privilege certain groups or worldviews while marginalizing others. The project’s goal is to critically reflect on these normative classifications and uncover biases in metadata schemas, controlled vocabularies, and archival cataloging practices, in order to develop more inclusive approaches. By questioning how we label and organize information, Diskriminierungsfreie Metadaten seeks to ensure that the act of describing digital cultural heritage and research data does not perpetuate historical prejudices or structural inequalities.\nThis conceptual and ethical framing means addressing a range of biases that can be hidden in metadata. For example, widely used library and archival vocabularies have historically enforced gender norms: the German Integrated Authority File (GND), a common standard, long provided only masculine forms of terms and recognized only a binary gender category (plus an “unknown/other” option), reflecting implicit sexism and cis-normativity (Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten am Beispiel von Stadt.Geschichte.Basel). Likewise, many archival catalogs inherit colonial biases – descriptions and subject headings created in imperial contexts that use derogatory or Eurocentric terminology. Digitized collections of colonial-era photographs, for instance, often retain minimal or one-sided descriptions provided by the colonial institutions, lacking critical context and using outdated language (DHQ: Digital Humanities Quarterly: Sensitivity and Access: Unlocking the Colonial Visual Archive with Machine Learning). Such cases illustrate how structural discrimination can persist in metadata: seemingly innocuous catalog entries may carry forward racism, sexism, ableism, or other forms of bias. Diskriminierungsfreie Metadaten addresses these issues by scrutinizing how metadata is produced and used. It advocates for practices like using gender-inclusive vocabularies (e.g. adopting the GenderOpen thesaurus instead of exclusively male or binary terms (Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten am Beispiel von Stadt.Geschichte.Basel)) and providing historical context for sensitive terms or content. In doing so, the project aligns with broader currents in critical data studies that argue for an awareness of power dynamics in all information infrastructures. Ultimately, this framework situates metadata creation as not just a technical task, but an ethical responsibility to represent knowledge in a fair and non-discriminatory manner.",
-    "crumbs": [
-      "Studies",
-      "Projects",
-      "Metadata Handbook"
-    ]
+    "text": "Docs for Zenodo added\nFixed various typos and replaced favicon\n\n\n\n\n\nInitial version"
   },
   {
-    "objectID": "content/projects/metadata-handbook/index.html#conceptual-and-ethical-framework",
-    "href": "content/projects/metadata-handbook/index.html#conceptual-and-ethical-framework",
-    "title": "Metadata Handbook",
+    "objectID": "CHANGELOG.html#section",
+    "href": "CHANGELOG.html#section",
+    "title": "Changelog",
     "section": "",
-    "text": "Diskriminierungsfreie Metadaten (Version 2) is an interdisciplinary research initiative examining how metadata practices in digital archives and datasets can inadvertently reproduce discrimination. At its core, the project interrogates the notion that metadata – the descriptive information about historical sources, artifacts, or research data – is a neutral technical layer. Instead, it recognizes that metadata schemas and vocabularies often embed the values and biases of their creators and institutional contexts. Classification systems and descriptive standards come with normative assumptions that may privilege certain groups or worldviews while marginalizing others. The project’s goal is to critically reflect on these normative classifications and uncover biases in metadata schemas, controlled vocabularies, and archival cataloging practices, in order to develop more inclusive approaches. By questioning how we label and organize information, Diskriminierungsfreie Metadaten seeks to ensure that the act of describing digital cultural heritage and research data does not perpetuate historical prejudices or structural inequalities.\nThis conceptual and ethical framing means addressing a range of biases that can be hidden in metadata. For example, widely used library and archival vocabularies have historically enforced gender norms: the German Integrated Authority File (GND), a common standard, long provided only masculine forms of terms and recognized only a binary gender category (plus an “unknown/other” option), reflecting implicit sexism and cis-normativity (Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten am Beispiel von Stadt.Geschichte.Basel). Likewise, many archival catalogs inherit colonial biases – descriptions and subject headings created in imperial contexts that use derogatory or Eurocentric terminology. Digitized collections of colonial-era photographs, for instance, often retain minimal or one-sided descriptions provided by the colonial institutions, lacking critical context and using outdated language (DHQ: Digital Humanities Quarterly: Sensitivity and Access: Unlocking the Colonial Visual Archive with Machine Learning). Such cases illustrate how structural discrimination can persist in metadata: seemingly innocuous catalog entries may carry forward racism, sexism, ableism, or other forms of bias. Diskriminierungsfreie Metadaten addresses these issues by scrutinizing how metadata is produced and used. It advocates for practices like using gender-inclusive vocabularies (e.g. adopting the GenderOpen thesaurus instead of exclusively male or binary terms (Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten am Beispiel von Stadt.Geschichte.Basel)) and providing historical context for sensitive terms or content. In doing so, the project aligns with broader currents in critical data studies that argue for an awareness of power dynamics in all information infrastructures. Ultimately, this framework situates metadata creation as not just a technical task, but an ethical responsibility to represent knowledge in a fair and non-discriminatory manner.",
-    "crumbs": [
-      "Studies",
-      "Projects",
-      "Metadata Handbook"
-    ]
+    "text": "…"
   },
   {
-    "objectID": "content/projects/metadata-handbook/index.html#background-and-initial-case-study",
-    "href": "content/projects/metadata-handbook/index.html#background-and-initial-case-study",
-    "title": "Metadata Handbook",
-    "section": "Background and Initial Case Study",
-    "text": "Background and Initial Case Study\nThe project originated in the context of a digital history initiative and has evolved from there. Diskriminierungsfreie Metadaten was first developed as part of the Stadt.Geschichte.Basel project – a public history portal exploring the urban history of Basel. In its initial version, the team of researchers identified the need for guidelines to ensure that the metadata describing historical sources in that portal was inclusive and did not inadvertently echo past prejudices. This led to the creation of a comprehensive handbook (Version 1) on how to create “discrimination-free” metadata, using the Basel project’s data as a case study. Published in 2024, the handbook (in German) serves as a practical guide to producing non-discriminatory metadata for historical sources and research datasets (Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten). Aimed at professional historians, archivists, librarians, and others in the cultural heritage and research data communities, it walks readers through the process of designing metadata that adheres to open data and FAIR principles (Findable, Accessible, Interoperable, Reusable) while critically addressing problematic terms or classifications (Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten). The authors, Moritz Mähr and Noëlle Schnegg, structured the handbook with step-by-step instructions and illustrated case examples drawn from the Basel archives, demonstrating how machine-readable metadata can enrich research and teaching and even shape the interpretation of historical sources (Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten). Crucially, the handbook was conceived as a publicly accessible “living document,” intended to evolve with community feedback and new insights. It explicitly committed to an inclusive, non-discriminatory representation of historical content in metadata practices (Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten). This first phase of the project established a foundation of concepts, use cases, and initial best practices, rooted firmly in an academic understanding of both metadata standards and the ethical considerations of historical scholarship.",
-    "crumbs": [
-      "Studies",
-      "Projects",
-      "Metadata Handbook"
-    ]
+    "objectID": "CHANGELOG.html#section-1",
+    "href": "CHANGELOG.html#section-1",
+    "title": "Changelog",
+    "section": "",
+    "text": "…"
   },
   {
-    "objectID": "content/projects/metadata-handbook/index.html#version-2-broadening-scope-and-goals",
-    "href": "content/projects/metadata-handbook/index.html#version-2-broadening-scope-and-goals",
-    "title": "Metadata Handbook",
-    "section": "Version 2: Broadening Scope and Goals",
-    "text": "Version 2: Broadening Scope and Goals\nIn Version 2, Diskriminierungsfreie Metadaten is being restructured and expanded beyond its original case-study focus. The new phase of the project transitions from a localized example (Basel’s history collections) to a broader platform supporting a wide range of research-driven digital projects. This means that while the insights from the Stadt.Geschichte.Basel experience remain valuable, Version 2 generalizes and adapts them to benefit diverse contexts – from other city or regional history portals, to museum and library databases, to academic research data repositories in the humanities and social sciences. The aim is to make the project’s guidance more universally applicable across different types of collections and metadata standards, without losing the nuanced, scholarly perspective that shaped the original handbook. In practical terms, Version 2 will continue to be grounded in rigorous research, but will offer more flexible and wide-ranging examples that users can draw upon in their own projects. It also places a stronger emphasis on being a resource that is up-to-date with ongoing discussions in the field, essentially bridging theory and practice for multiple communities.\nKey elements of Version 2 include:\n\nBroader Scope: A shift from a single case study to addressing common metadata challenges across various digital collections and datasets. Version 2 is designed to support historians and information professionals working not just on Basel’s history, but on any project where descriptive standards risk reinforcing bias. It will draw on examples from different domains (e.g. ethnographic archives, library catalogs, oral history databases) to illustrate its recommendations.\n\nPractical Toolkit: An expanded set of guidelines and tools for implementation. The project will provide updated checklists, templates, and best-practice examples for creating inclusive metadata. These practical resources will show how to handle problematic terminology, how to choose or customize controlled vocabularies, and how to document context for sensitive materials. By including multiple use cases, Version 2 ensures that the advice can be tailored to different institutional settings and metadata schemas (such as Dublin Core, museum cataloging standards, or research data ontologies).\n\nAcademic Integration: Ongoing engagement with scholarly research to inform metadata practices. The project stays attuned to the latest findings in fields like digital humanities, archival science, library and information science, and critical race/gender studies. This ensures that its recommendations are not only technically sound but also in dialogue with contemporary academic debates about ethics and representation in data. For example, Version 2 considers frameworks like the CARE Principles for Indigenous Data Governance and the OpenGLAM principles for open cultural heritage data, integrating their emphasis on community agency and ethical access into metadata guidance.\n\nCommunity and Continuity: Maintaining the “living document” philosophy. Version 2 will invite a broader community of contributors and users to discuss and refine its content, for instance via an open platform or repository. By crowdsourcing expertise and feedback from archivists, curators, researchers, and the public, the project can continuously update its recommendations. This collaborative approach not only keeps the guidance current but also embodies the project’s ethos of inclusivity – recognizing that building discrimination-free metadata is an ongoing, collective effort.\n\nThroughout these developments, Version 2 remains committed to its academic rigor combined with practical utility. The restructuring is carefully balanced so that the project’s output is useful to on-the-ground practitioners (providing clear instructions and examples) while also being deeply informed by theory (engaging with questions of how knowledge organization can enforce or challenge social norms). In essence, the broadened Version 2 aims to function as both a scholarly resource and a hands-on manual for enacting ethical metadata standards across a variety of digital initiatives.",
+    "objectID": "content/projects/aufbereitung-bundesratsprotokolle/index.html",
+    "href": "content/projects/aufbereitung-bundesratsprotokolle/index.html",
+    "title": "Kooperationsprojekt Aufbereitung der Schweizerischen Bundesratsprotokolle",
+    "section": "",
+    "text": "Kooperationsprojekt Aufbereitung der Schweizerischen Bundesratsprotokolle\nZiel des Projekts ist die Aufbereitung der handschriftlichen Bundesratsprotokolle (1848-1903) um einen niederschwelligen Zugriff mittels eigener Suchoberfläche zu schaffen. Die automatische Erkennung und Aufbereitung von handschriftlichem Material ist seit wenigen Jahren mit guter Qualität möglich.\nDie handschriftlich verfassten Bundesratsprotokolle der Jahre 1848 bis 1903 liegen zwar als Digitalisate vor (siehe: www.amtsdruckschriften.bar.admin.ch), sie sind jedoch nur schwer über handschriftliche Register und Sitzungsnummern suchbar. Im Rahmen des Projekts werden 150’000 Seiten der Bundesratsprotokolle segmentiert (p2pala und citlab advanced layout analysis) und mittels Texterkennung (Pylaia) aufbereitet. Der gesamte Prozess läuft in Transkribus und wird in eine Such- und Blätteroberfläche eingespiesen.\nDer Zugang zu den erkannten Dokumenten ist über das Bundesarchiv möglich: www.chgov.bar.admin.ch/search.\nDas Projekt befindet sich im Abschluss, siehe dazu die Medienmitteilung des Bundesarchivs vom 3.2.2022.\nDas Projekt ist eine Kooperation des Schweizerischen Bundesarchivs und der Digital Humanities. Die Texterkennung erfolgt im Rahmen der Mitgliedschaft in der READ Kooperative.\nDavid Schoch, B. A.\n\n\n\n\n\n\n Back to topReuseCC BY-SA 4.0",
     "crumbs": [
       "Studies",
       "Projects",
-      "Metadata Handbook"
-    ]
-  },
-  {
-    "objectID": "content/projects/metadata-handbook/index.html#interdisciplinary-team-and-approach",
-    "href": "content/projects/metadata-handbook/index.html#interdisciplinary-team-and-approach",
-    "title": "Metadata Handbook",
-    "section": "Interdisciplinary Team and Approach",
-    "text": "Interdisciplinary Team and Approach\nAn essential strength of Diskriminierungsfreie Metadaten is its interdisciplinary nature, which is carried forward and enhanced in Version 2. The project is a collaboration between researchers with backgrounds in history, digital humanities, and data ethics. Levyn Bürki, Moritz Mähr, and Noëlle Schnegg together contribute a wide spectrum of expertise that shapes the project’s approach. This interdisciplinary team ensures that multiple perspectives are interwoven: the historical viewpoint brings awareness of context, narrative, and the often sensitive content of archival materials; the digital humanities and information science viewpoint contributes knowledge of metadata standards, data modeling, and platform design; and the critical data studies perspective offers tools to interrogate power, bias, and ideology within information systems. By working at the intersection of these fields, the team is able to critically analyze existing metadata schemas and practices (asking, for instance, how categories were formed and whose viewpoints they reflect) and at the same time propose realistic, implementable solutions for improvement (such as new documentation methods or the adoption of alternative vocabularies).\nThe contributions of Bürki, Mähr, and Schnegg are evident in the project’s blending of theory and practice. Mähr and Schnegg’s work on the initial handbook leveraged their historical training and practical experience with a real-world dataset, ensuring that the guidelines were grounded in actual archival content and user needs (Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten). With the addition of Levyn Bürki in Version 2, the project gains further depth in digital scholarship and data-centric methodologies, reinforcing its ability to bridge technical implementation with cultural critique. The interdisciplinary collaboration is not only reflected in the content (which draws examples from historical case studies and addresses technical standards in the same breath) but also in the project’s methodology. The team engages with literature ranging from archival theory to semantic web design, and it consults with practitioners in libraries, archives, and museums to validate its approaches. This collegial, cross-disciplinary modus operandi is crucial for tackling a problem as complex as metadata-based discrimination: it takes into account that bias in metadata is at once a social/cultural issue and a technical/design issue, and thus must be approached from multiple angles.",
-    "crumbs": [
-      "Studies",
-      "Projects",
-      "Metadata Handbook"
-    ]
-  },
-  {
-    "objectID": "content/projects/metadata-handbook/index.html#towards-inclusive-metadata-practice",
-    "href": "content/projects/metadata-handbook/index.html#towards-inclusive-metadata-practice",
-    "title": "Metadata Handbook",
-    "section": "Towards Inclusive Metadata Practice",
-    "text": "Towards Inclusive Metadata Practice\nDiskriminierungsfreie Metadaten (Version 2) represents a forward-looking effort to foster equitable and reflective metadata practices in the management of digital cultural heritage and research data. By remaining grounded in scholarly analysis while providing concrete guidance, the project serves as a bridge between abstract ethical principles and day-to-day metadata work. It prompts academics and collection managers alike to pause and consider how the categories and labels they apply might be reinforcing outdated narratives or exclusionary norms, and it equips them with strategies to counteract those tendencies. Whether it is by recommending the use of gender-neutral language, encouraging the addition of historical context to descriptions of sensitive materials, or suggesting the revision of classification schemes that otherize certain groups, the project’s recommendations help practitioners make tangible changes toward inclusivity.\nThe impact of this project is both immediate and long-term. In the immediate sense, Version 2 will offer an accessible online resource (and associated documentation) that scholars, archivists, and digital humanists can consult when designing their databases or digital collections. Over the longer term, as the ideas disseminate and are adopted, it aspires to influence institutional policies and standards – contributing to updates in how metadata schemas are defined and how vocabularies are maintained. The broader vision is that metadata, often an unseen backbone of digital knowledge infrastructure, becomes consciously designed to be discrimination-free. This means future researchers and the public can discover and use digital collections without encountering the subtle biases or offensive terminologies that once might have gone unquestioned. By cleaning the “microdata” of history – the titles, tags, categories, and descriptions – the project helps pave the way for more just and accurate macro-narratives in historical interpretation and cultural memory.\nIn summary, Diskriminierungsfreie Metadaten (Version 2) stands as a crucial academic and practical endeavor to rethink how we describe our world. It underscores that the ethics of data are as important as the data itself. Through critical inquiry into normative classifications and active development of better practices, the project contributes to a more inclusive digital heritage landscape. It invites continued dialogue and collaboration, positioning itself as a living, evolving resource that will grow with the community it serves. By challenging biases embedded in metadata and championing inclusive alternatives, Version 2 of this project will support a new standard of metadata work – one that is aware, responsible, and free from discrimination, in service of both historical truth and social equity (Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten am Beispiel von Stadt.Geschichte.Basel) (Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten).",
-    "crumbs": [
-      "Studies",
-      "Projects",
-      "Metadata Handbook"
+      "Kooperationsprojekt Aufbereitung der Schweizerischen Bundesratsprotokolle"
     ]
   },
   {
@@ -901,42 +829,42 @@
   {
     "objectID": "content/services/oa-lab/de/index.html",
     "href": "content/services/oa-lab/de/index.html",
-    "title": "OA Lab",
+    "title": "Open Access Lab",
     "section": "",
     "text": "Wir bieten Beratung und Unterstützung für Wissenschaftler:innen, die unabhängig von kommerziellen Verlagen im Open Access (OA) publizieren möchten:\n\nFür Herausgeber:innen Für Redaktor:innen Für Autor:innen"
   },
   {
     "objectID": "content/services/oa-lab/de/index.html#herzlich-willkommen-beim-oa-lab",
     "href": "content/services/oa-lab/de/index.html#herzlich-willkommen-beim-oa-lab",
-    "title": "OA Lab",
+    "title": "Open Access Lab",
     "section": "",
     "text": "Wir bieten Beratung und Unterstützung für Wissenschaftler:innen, die unabhängig von kommerziellen Verlagen im Open Access (OA) publizieren möchten:\n\nFür Herausgeber:innen Für Redaktor:innen Für Autor:innen"
   },
   {
-    "objectID": "content/services/oa-lab/de/index.html#herausgeberinnen",
-    "href": "content/services/oa-lab/de/index.html#herausgeberinnen",
-    "title": "OA Lab",
-    "section": "Herausgeber:innen",
-    "text": "Herausgeber:innen\nGemeinsam mit Ihnen entwickeln wir:\n\nneue OA-Journals\ninnovative Features für Ihre OA-Zeitschrift\nStrategien zur Weiterentwicklung von bestehenden OA-Zeitschriften\n\nWir unterstützen Sie bei der:\n\nWahl von Formaten (HTML, PDF, XML), Veröffentlichungsplattformen (z. B. OJS), Hosting-Lösungen und Software\nTransformation von bestehenden Print- oder Online-Journals zu OA/DOA (Flipping)\nAufnahme Ihrer OA-Zeitschrift in relevante Datenbanken und metrikbasierte Indizes (z. B. DOAJ)\nEntscheidung für geeignete OA-Lizenzen (Creative Commons)"
+    "objectID": "content/services/oa-lab/de/index.html#für-herausgeberinnen",
+    "href": "content/services/oa-lab/de/index.html#für-herausgeberinnen",
+    "title": "Open Access Lab",
+    "section": "Für Herausgeber:innen",
+    "text": "Für Herausgeber:innen\nGemeinsam mit Ihnen entwickeln wir:\n\nneue OA-Journals\ninnovative Features für Ihre OA-Zeitschrift\nStrategien zur Weiterentwicklung von bestehenden OA-Zeitschriften\n\nWir unterstützen Sie bei der:\n\nWahl von Formaten (HTML, PDF, XML), Veröffentlichungsplattformen (z. B. OJS), Hosting-Lösungen und Software\nTransformation von bestehenden Print- oder Online-Journals zu OA/DOA (Flipping)\nAufnahme Ihrer OA-Zeitschrift in relevante Datenbanken und metrikbasierte Indizes (z. B. DOAJ)\nEntscheidung für geeignete OA-Lizenzen (Creative Commons)"
   },
   {
-    "objectID": "content/services/oa-lab/de/index.html#redaktorinnen",
-    "href": "content/services/oa-lab/de/index.html#redaktorinnen",
-    "title": "OA Lab",
-    "section": "Redaktor:innen",
-    "text": "Redaktor:innen\nWir teilen unsere Expertise zu folgenden Themen:\n\nKonzipierung des OA-Zeitschriftenworkflows\nRedaktionsprozess: Richtlinien für Peer-Review, Lektorat, Stylesheet\nProduktionsprozess: Formatierung, Satz, Fahnenkorrektur, Publikation\nBest Practices: Workflow in OJS, Bildmanagement (Bildrechte und Bildbearbeitung)\nKommunikation mit Autor:innen und Editorial Board, Zeitmanagement\nPlagiatsprüfung: Software und Umgang mit Plagiaten\nMarketingstrategien (Social Media)\n\nWir bieten:\n\nregelmässige Beratung und Schulungen für Redaktionsteams von OA-Journals\nHilfe bei der Optimierung von redaktionellen Workflows"
+    "objectID": "content/services/oa-lab/de/index.html#für-redaktorinnen",
+    "href": "content/services/oa-lab/de/index.html#für-redaktorinnen",
+    "title": "Open Access Lab",
+    "section": "Für Redaktor:innen",
+    "text": "Für Redaktor:innen\nWir teilen unsere Expertise zu folgenden Themen:\n\nKonzipierung des OA-Zeitschriftenworkflows\nRedaktionsprozess: Richtlinien für Peer-Review, Lektorat, Stylesheet\nProduktionsprozess: Formatierung, Satz, Fahnenkorrektur, Publikation\nBest Practices: Workflow in OJS, Bildmanagement (Bildrechte und Bildbearbeitung)\nKommunikation mit Autor:innen und Editorial Board, Zeitmanagement\nPlagiatsprüfung: Software und Umgang mit Plagiaten\nMarketingstrategien (Social Media)\n\nWir bieten:\n\nregelmässige Beratung und Schulungen für Redaktionsteams von OA-Journals\nHilfe bei der Optimierung von redaktionellen Workflows"
   },
   {
-    "objectID": "content/services/oa-lab/de/index.html#autorinnen",
-    "href": "content/services/oa-lab/de/index.html#autorinnen",
-    "title": "OA Lab",
-    "section": "Autor:innen",
-    "text": "Autor:innen\nWir beraten Sie zu den Themen:\n\nBildmanagement (Bildrechte und Bildbearbeitung)\nKommunikation mit Museen, Bibliotheken, Archiven etc.\nKommunikation mit OA-Zeitschriften-Redaktionen\nrechtliche Fragen (Urheberrecht)\n\nWir geben Tipps zur:\n\ninnovativen Aufbereitung von Bildmaterial\nEinbettung von multimedialen Features in Texte (Video, Audio etc.)"
+    "objectID": "content/services/oa-lab/de/index.html#für-autorinnen",
+    "href": "content/services/oa-lab/de/index.html#für-autorinnen",
+    "title": "Open Access Lab",
+    "section": "Für Autor:innen",
+    "text": "Für Autor:innen\nWir beraten Sie zu den Themen:\n\nBildmanagement (Bildrechte und Bildbearbeitung)\nKommunikation mit Museen, Bibliotheken, Archiven etc.\nKommunikation mit OA-Zeitschriften-Redaktionen\nrechtliche Fragen (Urheberrecht)\n\nWir geben Tipps zur:\n\ninnovativen Aufbereitung von Bildmaterial\nEinbettung von multimedialen Features in Texte (Video, Audio etc.)"
   },
   {
     "objectID": "content/services/oa-lab/de/index.html#wer-wir-sind",
     "href": "content/services/oa-lab/de/index.html#wer-wir-sind",
-    "title": "OA Lab",
+    "title": "Open Access Lab",
     "section": "Wer wir sind",
     "text": "Wer wir sind\nDas OA Lab ist eine Dienstleistung der Digital Humanities an der Universität Bern.\nKatharina Böhmer (Leitung) und Alessandra Fedrigo (Mitarbeit) haben als Redaktorinnen die erfolgreiche kunsthistorische OA-Zeitschrift 21: Inquiries into Art, History, and the Visual (Diamond OA) mit aufgebaut und sind Expertinnen im Bereich des OA-Publizierens von Fachzeitschriften. Ihre fundierte redaktionelle Expertise und ihre praktische Erfahrung geben sie gerne an Interessierte weiter.\nWir freuen uns auf Ihre Kontaktaufnahme!\nKontakt:\nKatharina Böhmer\nAlessandra Fedrigo\noa-lab.dh@unibe.ch"
   },
@@ -969,7 +897,7 @@
     "href": "content/services/index.html",
     "title": "Services",
     "section": "",
-    "text": "The Digital Humanities (DH) at the University of Bern offer a wide range of services for researchers, students and institutions. Our expertise includes support for research projects, the development of innovative publication formats, the provision of technical solutions and advice on digital tools and methods. The aim is to promote scientific innovation, strengthen digital skills and improve networking between research and the public.\nThe following is an overview of our main services and the contact persons responsible for them.\n\n\n\n\n\n\n\n\n\n\nnodegoat Go: data management and network analysis\n\n\n\n\n\n\n\n\n\n\n\nSebastian Borkowski\n\n\n\n\n\n\n\n\n\n\n\n\nSupport for research projects and applications\n\n\n\n\n\n\n\n\n\n\n\nDigital Humanities\n\n\n\n\n\n\n\n\n\n\n\n\nOA Lab\n\n\n\n\n\n\n\n\n\n\n\nKatharina Böhmer, Alessandra Fedrigo\n\n\n\n\n\n\n\n\n\n\n\n\nHandwriting and Text Recognition with Transkribus\n\n\n\n\n\n\n\n\n\n\n\nDigital Humanities\n\n\n\n\n\n\n\n\n\n\n\n\nGeovistory: Linking and analysing research data\n\n\n\n\n\n\n\n\n\n\n\nStephen Hart\n\n\n\n\n\n\n\n\n\n\n\n\nDigital image processing with IIIF\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Team\n\n\n\n\n\n\n\n\n\n\n\n\nAdvice and training on digital tools\n\n\n\n\n\n\n\n\n\n\n\nDigital Humanities\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n Back to topReuseCC BY-SA 4.0",
+    "text": "The Digital Humanities (DH) at the University of Bern offer a wide range of services for researchers, students and institutions. Our expertise includes support for research projects, the development of innovative publication formats, the provision of technical solutions and advice on digital tools and methods. The aim is to promote scientific innovation, strengthen digital skills and improve networking between research and the public.\nThe following is an overview of our main services and the contact persons responsible for them.\n\n\n\n\n\n\n\n\n\n\nnodegoat Go: data management and network analysis\n\n\n\n\n\n\n\n\n\n\n\nSebastian Borkowski\n\n\n\n\n\n\n\n\n\n\n\n\nSupport for research projects and applications\n\n\n\n\n\n\n\n\n\n\n\nDigital Humanities\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access Lab\n\n\n\n\n\n\n\n\n\n\n\nKatharina Böhmer, Alessandra Fedrigo\n\n\n\n\n\n\n\n\n\n\n\n\nHandwriting and Text Recognition with Transkribus\n\n\n\n\n\n\n\n\n\n\n\nDigital Humanities\n\n\n\n\n\n\n\n\n\n\n\n\nGeovistory: Linking and analysing research data\n\n\n\n\n\n\n\n\n\n\n\nStephen Hart\n\n\n\n\n\n\n\n\n\n\n\n\nDigital image processing with IIIF\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Team\n\n\n\n\n\n\n\n\n\n\n\n\nAdvice and training on digital tools\n\n\n\n\n\n\n\n\n\n\n\nDigital Humanities\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n Back to topReuseCC BY-SA 4.0",
     "crumbs": [
       "Studies",
       "Services"
