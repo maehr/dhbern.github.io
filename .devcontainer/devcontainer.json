@@ -1,0 +1,29 @@
+{
+	"name": "dhbern.github.io",
+	"image": "mcr.microsoft.com/devcontainers/base:debian",
+	"features": {
+		"ghcr.io/devcontainers/features/node:1": {
+			"version": "lts"
+		},
+		"ghcr.io/devcontainers/features/python:1": {
+			"version": "3.11"
+		},
+		"ghcr.io/devcontainers/features/r:1": {
+			"installRStudio": false
+		},
+		"ghcr.io/devcontainers/features/github-cli:1": {},
+		"ghcr.io/astral-sh/uv-devcontainer-feature:latest": {}
+	},
+	"postCreateCommand": "bash .devcontainer/setup.sh",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"quarto.quarto",
+				"ms-python.python",
+				"REditorSupport.r",
+				"esbenp.prettier-vscode"
+			]
+		}
+	},
+	"remoteUser": "vscode"
+}
