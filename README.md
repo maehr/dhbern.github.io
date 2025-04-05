@@ -19,14 +19,18 @@ The structure of this repository follows the [Advanced Structure for Data Analys
 
 ## Installation
 
-Follow these instructions to set up your environment:
+Use Codespace to set up your environment quickly and easily. Codespaces are cloud-based development environments that allow you to run and edit code directly in your browser. This is the recommended way to set up your environment.
+
+<details>
+
+<summary>Follow these instructions to set up your environment locally (advanced)</summary>
 
 ### Prerequisites
 
 Make sure you have the following software installed:
 
 - **Node.js**: [Installation Guide](https://nodejs.org/en/download/)
-- **R**: [CRAN Installation Guide](https://cran.r-project.org/)
+- **R (incl. Rtools)**: [CRAN Installation Guide](https://cran.r-project.org/)
 - **uv**: [Installation Guide](https://github.com/astral-sh/uv#installation)
 - **Quarto**: [Installation Guide](https://quarto.org/docs/get-started/)
 
@@ -73,7 +77,7 @@ npm install
 2.  Setup Python environment with uv:
 
 ```powershell
-uv install
+uv sync
 ```
 
 3.  Setup R environment with renv:
@@ -89,6 +93,8 @@ uv run quarto preview
 ```
 
 Now, your environment should be fully configured and ready to use.
+
+</details>
 
 ## Use
 
