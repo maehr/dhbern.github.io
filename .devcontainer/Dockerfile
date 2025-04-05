@@ -2,18 +2,8 @@ FROM mcr.microsoft.com/devcontainers/base:debian
 
 # Install system dependencies
 RUN apt-get update && export DEBIAN_FRONTEND=noninteractive && apt-get install -y \
-    curl \
-    wget \
-    git \
-    build-essential \
-    libcurl4-openssl-dev \
-    libssl-dev \
     libxml2-dev \
     software-properties-common \
-    dirmngr \
-    gnupg \
-    ca-certificates \
-    locales \
     r-base
 
 # Set up locale
