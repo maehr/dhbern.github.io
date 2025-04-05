@@ -6,9 +6,6 @@
 	"features": {
 		"ghcr.io/devcontainers/features/node:1": {
 			"version": "lts"
-		},
-		"ghcr.io/devcontainers/features/python:1": {
-			"version": "3.13"
 		}
 	},
 	"postCreateCommand": "bash .devcontainer/setup.sh",
