@@ -14,8 +14,7 @@ RUN apt-get update && export DEBIAN_FRONTEND=noninteractive && apt-get install -
     gnupg \
     ca-certificates \
     locales \
-    r-base \
-    python3-pip
+    r-base
 
 # Set up locale
 RUN echo "en_US.UTF-8 UTF-8" > /etc/locale.gen && \
