@@ -2,8 +2,6 @@ FROM mcr.microsoft.com/devcontainers/base:debian
 
 # Install system dependencies
 RUN apt-get update && export DEBIAN_FRONTEND=noninteractive && apt-get install -y \
-    libxml2-dev \
-    software-properties-common \
     r-base
 
 # Set up locale
