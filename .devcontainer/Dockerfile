@@ -6,8 +6,7 @@ RUN apt-get update && export DEBIAN_FRONTEND=noninteractive && apt-get install -
     r-base
 
 # Install uv (Python package manager)
-RUN pip3 install --upgrade pip && \
-    pip3 install uv
+RUN pip install uv
 
 # Install Quarto
 RUN curl -LO https://quarto.org/download/latest/quarto-linux-amd64.deb && \
