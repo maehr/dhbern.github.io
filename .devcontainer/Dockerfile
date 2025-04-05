@@ -5,7 +5,10 @@ RUN apt-get update && export DEBIAN_FRONTEND=noninteractive && apt-get install -
     r-base
 
 # Install uv (Python package manager)
-RUN pip install --upgrade uv
+RUN curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Symlink uv to /usr/local/bin
+RUN ln -s ~/.cargo/bin/uv /usr/local/bin/uv
 
 # Install Quarto
 RUN curl -LO https://quarto.org/download/latest/quarto-linux-amd64.deb && \
