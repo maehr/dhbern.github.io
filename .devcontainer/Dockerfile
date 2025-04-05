@@ -21,7 +21,7 @@ RUN echo "en_US.UTF-8 UTF-8" > /etc/locale.gen && \
     locale-gen
 
 # Install uv (Python package manager)
-RUN curl -LsSf https://astral.sh/uv/install.sh | sh -s -- --yes \
+RUN curl -LsSf https://astral.sh/uv/install.sh | sh \
     && ln -s /root/.cargo/bin/uv /usr/local/bin/uv
 
 # Install Quarto
