@@ -11,6 +11,9 @@ ADD https://astral.sh/uv/install.sh /uv-installer.sh
 # Run the installer then remove it
 RUN sh /uv-installer.sh && rm /uv-installer.sh
 
+# Symlink the installed binary to /usr/local/bin
+RUN ln -s /root/.local/bin/uv /usr/local/bin/uv
+
 # Ensure the installed binary is on the `PATH`
 ENV PATH="/root/.local/bin/:$PATH"
 
