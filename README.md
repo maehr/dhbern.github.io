@@ -17,82 +17,75 @@ The structure of this repository follows the [Advanced Structure for Data Analys
 - `content/` - Contains the content of the website, including the main page and any additional pages.
 - `renv/` - Contains the R environment used to build the website, including the R packages and their versions.
 
-## Installation
+## Getting Started
 
-Use Codespace to set up your environment quickly and easily. Codespaces are cloud-based development environments that allow you to run and edit code directly in your browser. This is the recommended way to set up your environment.
+We recommend using **GitHub Codespaces** for the easiest and fastest setup. It gives you a pre-configured, cloud-based development environment with everything ready to go — directly in your browser.
+
+### 🚀 Quick Start with GitHub Codespaces
+
+1. **Fork this repository** to your GitHub account (if needed).
+
+<div align="center">
+  <img src="docs/assets/img_fork.png" alt="Fork the repository" style="width: 540px; margin: 1em 0;" />
+</div>
+
+2. Click the green **`<> Code`** button at the top right of this repository.
+
+3. Select the **“Codespaces”** tab and click **“Create codespace on `main`”**.
+
+<div align="center">
+  <img src="docs/assets/img_codespace.png" alt="Create Codespace" style="width: 540px; margin: 1em 0;" />
+</div>
+
+4. GitHub will now build a container that includes:
+
+   - ✅ Node.js (via `npm`)
+   - ✅ Python with `uv`
+   - ✅ R with `renv`
+   - ✅ Quarto
+
+5. Once the Codespace is ready, you can preview the documentation locally inside the Codespace with:
+
+   - **Open a terminal** in the Codespace (Terminal > New Terminal).
+   - **Run the following command** to install all dependencies:
+
+```bash
+uv run quarto preview
+```
+
+<div align="center">
+  <img src="docs/assets/img_terminal.png" alt="Terminal" style="width: 540px; margin: 1em 0;" />
+</div>
 
 <details>
-
-<summary>Follow these instructions to set up your environment locally (advanced)</summary>
+<summary>👩‍💻 Setup locally (Advanced users)</summary>
 
 ### Prerequisites
 
-Make sure you have the following software installed:
+Make sure the following tools are installed locally:
 
-- **Node.js**: [Installation Guide](https://nodejs.org/en/download/)
-- **R (incl. Rtools)**: [CRAN Installation Guide](https://cran.r-project.org/)
-- **uv**: [Installation Guide](https://github.com/astral-sh/uv#installation)
-- **Quarto**: [Installation Guide](https://quarto.org/docs/get-started/)
+- [Node.js](https://nodejs.org/en/download/)
+- [R](https://cran.r-project.org/) and Rtools (on Windows)
+- [uv (Python manager)](https://github.com/astral-sh/uv#installation)
+- [Quarto](https://quarto.org/docs/get-started/)
 
-Note: uv will automatically install and manage a Python version if one isn't available.
+> _Note: `uv` automatically manages a Python version if none is installed._
 
-### Setup the project
-
-Clone the repository and navigate to its root directory, then:
-
-#### Linux and macOS
-
-1.  Install Node.js dependencies:
+### Local setup steps
 
 ```bash
+# 1. Install Node.js dependencies
 npm install
-```
 
-2.  Setup Python environment with uv:
-
-```bash
+# 2. Setup Python environment
 uv sync
-```
 
-3.  Setup R environment with renv:
-
-```bash
+# 3. Setup R environment
 Rscript -e 'install.packages("renv"); renv::restore()'
-```
 
-4.  Check installation by previewing the documentation:
-
-```bash
+# 4. Preview documentation
 uv run quarto preview
 ```
-
-#### Windows
-
-1.  Install Node.js dependencies:
-
-```powershell
-npm install
-```
-
-2.  Setup Python environment with uv:
-
-```powershell
-uv sync
-```
-
-3.  Setup R environment with renv:
-
-```powershell
-Rscript -e "install.packages('renv'); renv::restore()"
-```
-
-4.  Check installation by previewing the documentation:
-
-```powershell
-uv run quarto preview
-```
-
-Now, your environment should be fully configured and ready to use.
 
 </details>
 
