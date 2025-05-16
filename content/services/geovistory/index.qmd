@@ -1,5 +1,5 @@
 ---
-title: "Geovistory: Linking and analysing research data"
+title: "Geovistory: LOD Research Environment"
 author:
   - name: Stephen Hart
     email: stephen.hart@unibe.ch
