@@ -11,7 +11,7 @@ We offer training and advice on a wide range of digital tools, including:
 -   Text Encoding Initiative (TEI): digital editions and text technologies
 -   [Transkribus](../transkribus/index.qmd): automated text recognition
 -   [nodegoat](../nodegoat-go/index.qmd): data management and network analysis
--   Omeka: digital publishing and exhibition platform
+-   Omeka S: digital publishing and exhibition platform
 
 Our workshops are designed to be practical and offer both beginners and experienced users the opportunity to develop their digital skills.
 
