@@ -45,7 +45,7 @@ _Diagram: Overview of content domains for the public site and official universit
 
   - 📚 Study programs
   - 👥 Team information
-    ➤ Changes to the team page are made via [this Office form](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOsf3eqEteXfhgnFcqTSVtNvO8z2rg4-SZUQlBGMUFZOFQyWElFWk5JRUpTWUdNSFY5Ty4u) (contact: Dominik Kilchberg).
+    ➤ Changes to the team page are made via [this Office form](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOsf3eqEteXfhgnFcqTSVtNvO8z2rg4-SZUQlBGMUFZOFQyWElFWk5JRUpTWUdNSFY5Ty4u) (contact: Dominik Kilchmann).
 
 ### Folder Structure of Content
 
