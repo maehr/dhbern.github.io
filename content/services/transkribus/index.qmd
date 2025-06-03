@@ -1,7 +1,7 @@
 ---
 title: Handwriting and Text Recognition with Transkribus
 author: "Digital Humanities"
-categories: [services]
+categories: [Services]
 ---
 
 [Transkribus](https://www.transkribus.org/) is an AI-powered platform for the automated recognition and transcription of handwritten and historical documents. It is widely used in the humanities and archival sciences to digitize and make accessible historical texts. The University of Bern supports researchers by subsidizing the use of the tool and providing training and workshops.

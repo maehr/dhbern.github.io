@@ -5,7 +5,7 @@ author:
     email: stephen.hart@unibe.ch
     orcid: 0009-0003-6556-5512
     affiliation: University of Bern
-categories: [services]
+categories: [Services]
 ---
 
 *Geovistory* is a collaborative information system that allows researchers to structure, link and analyse data. Its innovative visualisation tools promote the sharing and dissemination of research data.

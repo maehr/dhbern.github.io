@@ -9,7 +9,7 @@ author:
     email: alessandrafedrigo@unibe.ch
     orcid: 0009-0005-0968-7376
     affiliation: University of Bern
-categories: [services]
+categories: [Services]
 other-links:
   - text: "German version"
     icon: globe

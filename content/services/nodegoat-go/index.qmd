@@ -5,7 +5,7 @@ author:
     email: sebastian.borkowski@unibe.ch
     orcid: 0000-0002-8324-1939
     affiliation: University of Bern
-categories: [services]
+categories: [Services]
 ---
 
 *nodegoat Go* is a virtual research environment for modelling, visualising, and analysing heterogeneous data. Researchers and students at the University of Bern can apply for **free, institution-hosted domains** and carry out projects in the humanities, social, and natural sciences.

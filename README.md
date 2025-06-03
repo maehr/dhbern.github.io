@@ -10,16 +10,16 @@ This repository contains the website of the Digital Humanities at the University
 
 The structure of this repository follows the [Advanced Structure for Data Analysis](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-advanced.html) of _The Turing Way_ and is organized as follows:
 
-- `.github/` - Contains the GitHub configuration files, including the issue templates and workflows.
-- `.husky/` - Contains the Husky configuration files, including the pre-commit hooks and the Husky settings.
-- `.venv/` - Contains the Python virtual environment used to build the website, including the Python packages and their versions.
-- `assets/` - Contains all the assets used in the website, including images, stylesheets, and JavaScript files.
-- `content/` - Contains the content of the website, including the main page and any additional pages.
-- `renv/` - Contains the R environment used to build the website, including the R packages and their versions.
+- `.github/` - GitHub configuration files (issue templates, workflows).
+- `.husky/` - Husky configuration (pre-commit hooks).
+- `.venv/` - Python virtual environment for website build.
+- `assets/` - Images, stylesheets, JavaScript files.
+- `content/` - Website content (main and additional pages).
+- `renv/` - R environment for website build.
 
 ## 📁 Content Structure and Categorization
 
-The website is maintained under two main domains:
+The site is available under two main domains:
 
 ```mermaid
 graph TD
@@ -32,7 +32,9 @@ graph TD
   B --> B2[Team]
 ```
 
-- Content published at **[https://dhbern.github.io/](https://dhbern.github.io/)** includes:
+_Diagram: Overview of content domains for the public site and official university site._
+
+- Content at **[https://dhbern.github.io/](https://dhbern.github.io/)** includes:
 
   - 📰 News and blog posts
   - 📅 Events
@@ -43,8 +45,9 @@ graph TD
 
   - 📚 Study programs
   - 👥 Team information
+    ➤ Changes to the team page are made via [this Office form](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOsf3eqEteXfhgnFcqTSVtNvO8z2rg4-SZUQlBGMUFZOFQyWElFWk5JRUpTWUdNSFY5Ty4u) (contact: Dominik Kilchberg).
 
-### Folder structure of content
+### Folder Structure of Content
 
 ```mermaid
 graph TD
@@ -57,7 +60,7 @@ graph TD
 
   sub2[services/] --> sv1[service-shortname/]
   sv1 --> svindex[index.qmd]
-    sv1 --> svpost[YYYYMMDD-shortname-post/index.qmd]
+  sv1 --> svpost[YYYYMMDD-shortname-post/index.qmd]
   sv1 --> svevent[YYYYMMDD-shortname-event/index.qmd]
 
   sub3[posts/] --> pst1[YYYYMMDD-shortname/]
@@ -72,81 +75,77 @@ graph TD
   root --> sub4
 ```
 
+_Diagram: Folder layout for the `content/` directory, reflecting the site’s hierarchical structure._
+
 - `content/projects/project-shortname/index.qmd`
-  Each project resides in its own folder and can include blog posts or event entries.
+  Projects live here and can contain nested posts or events.
 
 - `content/services/service-shortname/index.qmd`
-  Services are structured similarly but **must include** a YAML header with `categories: [services]`.
+  Services must include `categories: [Services]` in the YAML header.
 
 - `content/posts/YYYYMMDD-shortname/index.qmd`
-  News/blog posts live here or may be embedded under a project folder. Each must include `categories: [Post]`.
+  News/blog posts require `categories: [Post]`.
 
 - `content/events/YYYYMMDD-shortname/index.qmd`
-  Events may also be project-specific or standalone and must include `categories: [Event]`.
+  Event entries require `categories: [Event]`.
 
-### Categorization logic
+### Categorization Logic
 
-- 🏷 News are markdown files with a YAML header containing `categories: [Post]`.
-- 📆 Events require `categories: [Event]`.
-- 🛠 Services require `categories: [services]`.
+- 🏷 News posts: `categories: [Post]`
+- 📆 Events: `categories: [Event]`
+- 🛠 Services: `categories: [Services]`
 
-All such files must be named `index.qmd` inside appropriately named folders.
+All must be named `index.qmd` and reside in correctly named folders.
 
-## Getting Started
+## 🚀 Getting Started
 
-We recommend using **GitHub Codespaces** for the easiest and fastest setup. It gives you a pre-configured, cloud-based development environment with everything ready to go — directly in your browser.
+We recommend using **GitHub Codespaces** for a quick and reproducible setup.
 
-### 🚀 Quick Start with GitHub Codespaces
+### Quick Start with GitHub Codespaces
 
 1. **Fork this repository** to your GitHub account (if needed).
 
-<div align="center">
-  <img src="docs/assets/img_fork.png" alt="Fork the repository" style="width: 540px; margin: 1em 0;" />
-</div>
+   <div align="center">
+     <img src="docs/assets/img_fork.png" alt="Fork the repository" style="width: 540px; margin: 1em 0;" />
+   </div>
 
 2. Click the green **`<> Code`** button at the top right of this repository.
 
 3. Select the **“Codespaces”** tab and click **“Create codespace on `main`”**.
-
-<div align="center">
-  <img src="docs/assets/img_codespace.png" alt="Create Codespace" style="width: 540px; margin: 1em 0;" />
-</div>
-
-4. GitHub will now build a container that includes:
+   GitHub will now build a container that includes:
 
    - ✅ Node.js (via `npm`)
    - ✅ Python with `uv`
    - ✅ R with `renv`
    - ✅ Quarto
 
-5. Once the Codespace is ready, you can preview the documentation locally inside the Codespace with:
+   <div align="center">
+     <img src="docs/assets/img_codespace.png" alt="Create Codespace" style="width: 540px; margin: 1em 0;" />
+   </div>
 
-   - **Open a terminal** in the Codespace (Terminal > New Terminal).
-   - **Run the following command** to install all dependencies:
+4. Once the Codespace is ready, open a terminal and preview the documentation:
 
-```bash
-uv run quarto preview
-```
+   ```bash
+   uv run quarto preview
+   ```
 
-<div align="center">
-  <img src="docs/assets/img_terminal.png" alt="Terminal" style="width: 540px; margin: 1em 0;" />
-</div>
+   <div align="center">
+     <img src="docs/assets/img_terminal.png" alt="Terminal window showing command" style="width: 540px; margin: 1em 0;" />
+   </div>
 
 <details>
-<summary>👩‍💻 Setup locally (Advanced users)</summary>
+<summary>👩‍💻 Setup Locally (Advanced Users)</summary>
 
 ### Prerequisites
-
-Make sure the following tools are installed locally:
 
 - [Node.js](https://nodejs.org/en/download/)
 - [R](https://cran.r-project.org/) and Rtools (on Windows)
 - [uv (Python manager)](https://github.com/astral-sh/uv#installation)
 - [Quarto](https://quarto.org/docs/get-started/)
 
-> _Note: `uv` automatically manages a Python version if none is installed._
+> _Note: `uv` installs and manages the correct Python version automatically._
 
-### Local setup steps
+### Setup Steps
 
 ```bash
 # 1. Install Node.js dependencies
@@ -164,71 +163,70 @@ uv run quarto preview
 
 </details>
 
-## Use
+## 🛠 Usage
 
-Check that all files are properly formatted.
+Check file formatting:
 
 ```bash
 npm run check
 ```
 
-Format all files.
+Format all files:
 
 ```bash
 npm run format
 ```
 
-Run the wizard to write meaningful commit messages.
+Generate conventional commits:
 
 ```bash
 npm run commit
 ```
 
-Run the wizard to create a CHANGELOG.md.
+Generate `CHANGELOG.md`:
 
 ```bash
 npm run changelog
 ```
 
-Preview the documentation.
+Preview the documentation:
 
 ```bash
 uv run quarto preview
 ```
 
-## Support
+## 🧰 Support
 
-This project is maintained by [\@DHBern](https://github.com/DHBern). Please understand that we can't provide individual support via email. We also believe that help is much more valuable when it's shared publicly, so more people can benefit from it.
+This project is maintained by [@DHBern](https://github.com/DHBern). We encourage open support channels so others can benefit.
 
-| Type                                   | Platforms                                                                    |
-| -------------------------------------- | ---------------------------------------------------------------------------- |
-| 🚨 **Bug Reports**                     | [GitHub Issue Tracker](https://github.com/DHBern/dhbern.github.io/issues)    |
-| 📊 **Report bad data**                 | [GitHub Issue Tracker](https://github.com/DHBern/dhbern.github.io/issues)    |
-| 📚 **Docs Issue**                      | [GitHub Issue Tracker](https://github.com/DHBern/dhbern.github.io/issues)    |
-| 🎁 **Feature Requests**                | [GitHub Issue Tracker](https://github.com/DHBern/dhbern.github.io/issues)    |
-| 🛡 **Report a security vulnerability** | See [SECURITY.md](SECURITY.md)                                               |
-| 💬 **General Questions**               | [GitHub Discussions](https://github.com/DHBern/dhbern.github.io/discussions) |
+| Type                            | Platforms                                                                    |
+| ------------------------------- | ---------------------------------------------------------------------------- |
+| 🚨 **Bug Reports**              | [GitHub Issues](https://github.com/DHBern/dhbern.github.io/issues)           |
+| 📊 **Report Bad Data**          | [GitHub Issues](https://github.com/DHBern/dhbern.github.io/issues)           |
+| 📚 **Docs Issues**              | [GitHub Issues](https://github.com/DHBern/dhbern.github.io/issues)           |
+| 🎁 **Feature Requests**         | [GitHub Issues](https://github.com/DHBern/dhbern.github.io/issues)           |
+| 🛡 **Security Vulnerabilities** | See [SECURITY.md](SECURITY.md)                                               |
+| 💬 **General Questions**        | [GitHub Discussions](https://github.com/DHBern/dhbern.github.io/discussions) |
 
-## Roadmap
+## 🗺 Roadmap
 
 TBA
 
-## Contributing
+## 🤝 Contributing
 
-All contributions to this repository are welcome! If you find errors or problems with the data, or if you want to add new data or features, please open an issue or pull request. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Contributions are welcome! Report problems, propose changes, or submit new features via issues or pull requests. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
-## Versioning
+## 🧾 Versioning
 
-We use [SemVer](http://semver.org/) for versioning. The available versions are listed in the [tags on this repository](https://github.com/DHBern/dhbern.github.io/tags).
+We use [SemVer](http://semver.org/). See [tags](https://github.com/DHBern/dhbern.github.io/tags) for available versions.
 
-## Authors and acknowledgment
+## ✍️ Authors and Acknowledgment
 
-- **Moritz Mähr** - _Initial work_ - [maehr](https://github.com/maehr)
+- **Moritz Mähr** – _Initial work_ – [@maehr](https://github.com/maehr)
 
-See also the list of [contributors](https://github.com/DHBern/dhbern.github.io/graphs/contributors) who contributed to this project.
+See also the list of [contributors](https://github.com/DHBern/dhbern.github.io/graphs/contributors).
 
-## License
+## 🪪 License
 
-The data in this repository is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) License - see the [LICENSE-CCBY](LICENSE-CCBY.md) file for details. By using this data, you agree to give appropriate credit to the original author(s) and to indicate if any modifications have been made.
-
-The code in this repository is released under the GNU Affero General Public License v3.0 - see the [LICENSE-AGPL](LICENSE-AGPL.md) file for details. By using this code, you agree to make any modifications available under the same license.
+- **Data**: Creative Commons Attribution 4.0 International (CC BY 4.0) – see [LICENSE-CCBY](LICENSE-CCBY.md).
+- **Code**: GNU Affero General Public License v3.0 – see [LICENSE-AGPL](LICENSE-AGPL.md).

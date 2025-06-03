@@ -10,11 +10,11 @@ author:
     email: alessandrafedrigo@unibe.ch
     orcid: 0009-0005-0968-7376
     affiliation: Universität Bern
-categories: [Dienstleistungen]
+categories: [Services]
 other-links:
-    - text: "English version"
-      icon: globe
-      href: ./../
+  - text: "English version"
+    icon: globe
+    href: ./../
 ---
 
 ## Herzlich willkommen beim OA Lab!
