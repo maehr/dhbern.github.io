@@ -24,13 +24,13 @@ The site is available under two main domains:
 
 ```mermaid
 graph TD
-  A[https://dhbern.github.io/] --> A1[News (Blog)]
-  A --> A2[Events]
-  A --> A3[Projects]
-  A --> A4[Services]
+  A["dhbern.github.io"] --> A1["News Blog"]
+  A --> A2["Events"]
+  A --> A3["Projects"]
+  A --> A4["Services"]
 
-  B[https://www.dh.unibe.ch/] --> B1[Studies]
-  B --> B2[Team]
+  B["dh.unibe.ch"] --> B1["Studies"]
+  B --> B2["Team"]
 ```
 
 _Diagram: Overview of content domains for the public site and official university site._
