@@ -1,7 +1,7 @@
 ---
 title: "Digital Image Processing with IIIF"
 author: "Open Science Team"
-categories: [services]
+categories: [Services]
 ---
 
 The [*International Image Interoperability Framework (IIIF)*](https://iiif.io/) is a set of open standards for delivering high-quality digital objects online at scale. It enables standardized access to rich, image-based resources, allowing for deep zoom, comparison, structure, and annotation of images across repositories.

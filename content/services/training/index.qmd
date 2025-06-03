@@ -1,7 +1,7 @@
 ---
 title: Advice and training on digital tools
 author: "Digital Humanities"
-categories: [services]
+categories: [Services]
 ---
 
 We offer training and advice on a wide range of digital tools, including:
