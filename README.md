@@ -14,6 +14,7 @@ The structure of this repository follows the [Advanced Structure for Data Analys
 - `.husky/` - Husky configuration (pre-commit hooks).
 - `.venv/` - Python virtual environment for website build.
 - `assets/` - Images, stylesheets, JavaScript files.
+- `docs/` - Documentation assets for README.md.
 - `content/` - Website content (main and additional pages).
 - `renv/` - R environment for website build.
 
@@ -45,7 +46,7 @@ _Diagram: Overview of content domains for the public site and official universit
 
   - 📚 Study programs
   - 👥 Team information
-    ➤ Changes to the team page are made via [this Office form](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOsf3eqEteXfhgnFcqTSVtNvO8z2rg4-SZUQlBGMUFZOFQyWElFWk5JRUpTWUdNSFY5Ty4u) (contact: Dominik Kilchmann).
+    - ➤ Changes to the team page are made via [this Office form](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOsf3eqEteXfhgnFcqTSVtNvO8z2rg4-SZUQlBGMUFZOFQyWElFWk5JRUpTWUdNSFY5Ty4u) (contact: Dominik Kilchberg).
 
 ### Folder Structure of Content
 
@@ -197,7 +198,7 @@ uv run quarto preview
 
 ## 🧰 Support
 
-This project is maintained by [@DHBern](https://github.com/DHBern). We encourage open support channels so others can benefit.
+This project is maintained by [@DHBern](https://github.com/DHBern). We encourage open support channels, so others can benefit.
 
 | Type                            | Platforms                                                                    |
 | ------------------------------- | ---------------------------------------------------------------------------- |
