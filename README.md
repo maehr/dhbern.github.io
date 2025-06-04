@@ -24,13 +24,13 @@ The site is available under two main domains:
 
 ```mermaid
 graph TD
-  A[https://dhbern.github.io/] --> A1[News (Blog)]
-  A --> A2[Events]
-  A --> A3[Projects]
-  A --> A4[Services]
+  A["dhbern.github.io"] --> A1["News Blog"]
+  A --> A2["Events"]
+  A --> A3["Projects"]
+  A --> A4["Services"]
 
-  B[https://www.dh.unibe.ch/] --> B1[Studies]
-  B --> B2[Team]
+  B["dh.unibe.ch"] --> B1["Studies"]
+  B --> B2["Team"]
 ```
 
 _Diagram: Overview of content domains for the public site and official university site._
@@ -46,7 +46,7 @@ _Diagram: Overview of content domains for the public site and official universit
 
   - 📚 Study programs
   - 👥 Team information
-    - ➤ Changes to the team page are made via [this Office form](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOsf3eqEteXfhgnFcqTSVtNvO8z2rg4-SZUQlBGMUFZOFQyWElFWk5JRUpTWUdNSFY5Ty4u) (contact: Dominik Kilchberg).
+    - ➤ Changes to the team page are made via [this Office form](https://forms.office.com/Pages/ResponsePage.aspx?id=ejgA1C8h6kOsf3eqEteXfhgnFcqTSVtNvO8z2rg4-SZUQlBGMUFZOFQyWElFWk5JRUpTWUdNSFY5Ty4u) (contact: Dominik Kilchmann).
 
 ### Folder Structure of Content
 
