@@ -3,4 +3,5 @@ title: "Projects"
 listing:
   type: default
   contents: "./*/index.qmd"
+# index with serveral listings for projects based on tag system
 ---
