@@ -24,7 +24,7 @@ other-links:
 Wir bieten Beratung und Unterstützung für Wissenschaftler:innen, die unabhängig von kommerziellen Verlagen im Diamond Open Access (DOA) publizieren möchten: als Herausgeber:innen, Redaktor:innen oder Autor:innen von wissenschaftlichen Zeitschriften.
 
 ::: {.btn-group .d-flex .justify-content-center role="group" aria-label="Navigation für Zielgruppen"}
-<a href="#für-herausgeberinnen" class="btn btn-outline-primary">Für Herausgeber:innen</a> <a href="#für-redaktorinnen" class="btn btn-outline-primary">Für Redaktor:innen</a> <a href="#für-autorinnen" class="btn btn-outline-primary">Für Autor:innen</a><br>
+<a href="#für-herausgeberinnen" class="btn btn-outline-primary">Für Herausgeber:innen</a> <a href="#für-redaktorinnen" class="btn btn-outline-primary">Für Redaktor:innen</a> <a href="#für-autorinnen" class="btn btn-outline-primary">Für Autor:innen</a>
 :::
 
 
