@@ -16,6 +16,8 @@ other-links:
     href: ./de/
 ---
 
+<a href="./de/" class="btn btn-sm btn-outline-secondary">German version</a>
+
 ## Welcome to the OA Lab!
 
 We provide advice and support for researchers who wish to publish in Diamond Open Access (DOA), independently of commercial publishers: as editorial board members, editorial teams, or authors of academic journals.

@@ -17,13 +17,16 @@ other-links:
     href: ./../
 ---
 
+<a href="./../" class="btn btn-sm btn-outline-secondary">English version</a>
+
 ## Herzlich willkommen beim OA Lab!
 
 Wir bieten Beratung und Unterstützung für Wissenschaftler:innen, die unabhängig von kommerziellen Verlagen im Diamond Open Access (DOA) publizieren möchten: als Herausgeber:innen, Redaktor:innen oder Autor:innen von wissenschaftlichen Zeitschriften.
 
 ::: {.btn-group .d-flex .justify-content-center role="group" aria-label="Navigation für Zielgruppen"}
-<a href="#für-herausgeberinnen" class="btn btn-outline-primary">Für Herausgeber:innen</a> <a href="#für-redaktorinnen" class="btn btn-outline-primary">Für Redaktor:innen</a> <a href="#für-autorinnen" class="btn btn-outline-primary">Für Autor:innen</a>
+<a href="#für-herausgeberinnen" class="btn btn-outline-primary">Für Herausgeber:innen</a> <a href="#für-redaktorinnen" class="btn btn-outline-primary">Für Redaktor:innen</a> <a href="#für-autorinnen" class="btn btn-outline-primary">Für Autor:innen</a><br>
 :::
+
 
 ## Für Herausgeber:innen
 
@@ -42,9 +45,8 @@ Wir unterstützen Sie bei der:
 
 Bei Fragen zu:
 
--   [Finanzierungsmöglichkeiten für Open-Access-Publikationen](https://www.ub.unibe.ch/service/open_science/open_access/index_ger.html#pane967852)
-
--   [Open-Access-Vorgaben von Forschungsförderinstitutionen](https://www.ub.unibe.ch/service/open_science/open_access/index_ger.html#pane1224714) (SNF)
+-   Finanzierungsmöglichkeiten für [Open-Access-Publikationen](https://www.ub.unibe.ch/service/open_science/open_access/index_ger.html#pane967852)
+-   [Open-Access-Vorgaben](https://www.ub.unibe.ch/service/open_science/open_access/index_ger.html#pane1224714) von Forschungsförderinstitutionen (SNF)
 
 wenden Sie sich an das Open-Science-Team der Universitätsbibliothek Bern UB: [openaccess\@ub.unibe.ch](mailto:openaccess@ub.unibe.ch)
 
@@ -87,10 +89,8 @@ Wir geben Tipps zur:
 
 Bei Fragen zu:
 
--   [Finanzierungsmöglichkeiten für Open-Access-Publikationen](https://www.ub.unibe.ch/service/open_science/open_access/index_ger.html#pane967852)
-
--   [Open-Access-Vorgaben von Forschungsförderinstitutionen](https://www.ub.unibe.ch/service/open_science/open_access/index_ger.html#pane1224714)
-
+-   Finanzierungsmöglichkeiten für [Open-Access-Publikationen](https://www.ub.unibe.ch/service/open_science/open_access/index_ger.html#pane967852)
+-   [Open-Access-Vorgaben](https://www.ub.unibe.ch/service/open_science/open_access/index_ger.html#pane1224714) von Forschungsförderinstitutionen (SNF)
 -   [Article Processing Charges (APC) und Book Processing Charges (BPC)](https://www.ub.unibe.ch/service/open_science/dienstleistungen/index_ger.html#collapse_pane780347)
 
 wenden Sie sich an das Open-Science-Team der UB Bern: [openaccess\@ub.unibe.ch](mailto:openaccess@ub.unibe.ch)
