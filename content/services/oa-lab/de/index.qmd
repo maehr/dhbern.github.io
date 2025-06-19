@@ -37,7 +37,7 @@ Wir unterstützen Sie bei der:
 
 -   Wahl von Formaten (HTML, PDF, XML), Veröffentlichungsplattformen (z. B. [OJS](https://pkp.sfu.ca/software/ojs/)), Hosting-Lösungen und Software
 -   Transformation von bestehenden Print- oder Online-Journals zu OA/DOA (Flipping)
--   Aufnahme Ihrer OA-Zeitschrift in relevante Datenbanken und metrikbasierte Indizes (z. B. [DOAJ](https://doaj.org/), [Scopus](https://www.scopus.com/search/form.uri?display=basic&zone=header&origin=searchbasic#basic), [Web of Science Core Collection](https://mjl.clarivate.com/home), [EBSCO](https://www.ebsco.com/), [ERIH PLUS](https://kanalregister.hkdir.no/publiseringskanaler/erihplus/), [WorldCat](https://search.worldcat.org/de) etc.)
+-   Aufnahme Ihrer OA-Zeitschrift in relevante Datenbanken und metrikbasierte Indizes (z. B. [DOAJ](https://doaj.org/), [Scopus](https://www.scopus.com/sources.uri?RN_AG_Sourced_400000654), [Web of Science Core Collection](https://mjl.clarivate.com/home), [EBSCO](https://www.ebsco.com/), [ERIH PLUS](https://kanalregister.hkdir.no/publiseringskanaler/erihplus/), [WorldCat](https://search.worldcat.org/de) etc.)
 -   Entscheidung für geeignete OA-Lizenzen ([Creative Commons](https://creativecommons.org/share-your-work/cclicenses/))
 
 Bei Fragen zu:
@@ -104,5 +104,4 @@ Wir freuen uns auf Ihre Kontaktaufnahme!
 **Kontakt:**\
 [Katharina Böhmer](https://www.dh.unibe.ch/ueber_uns/personen/ma_boehmer_katharina/index_ger.html)\
 [Alessandra Fedrigo](https://www.dh.unibe.ch/ueber_uns/personen/fedrigo_alessandra/index_ger.html)\
-[oa-lab.dh\@unibe.ch](mailto:oa-lab.dh@unibe.ch)\
-[www.dh.unibe.ch/dienstleistungen/oa_lab/index_ger.html](https://www.dh.unibe.ch/dienstleistungen/oa_lab/index_ger.html){.uri}
+[oa-lab.dh\@unibe.ch](mailto:oa-lab.dh@unibe.ch)
